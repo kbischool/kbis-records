@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 KBIS Schools — Student Records data builder
 =============================================
