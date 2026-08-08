@@ -1,0 +1,50 @@
+{
+ "generatedAt": "2026-08-07T23:34:26.444344+00:00",
+ "sessions": [
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "currentSession": "2026-2027",
+ "classes": [
+  "CRECHE",
+  "PLAYGROUP 1",
+  "PLAYGROUP 2",
+  "NURSERY 1",
+  "NURSERY 2",
+  "PRIMARY 1",
+  "PRIMARY 2",
+  "PRIMARY 3",
+  "PRIMARY 4",
+  "PRIMARY 5",
+  "JUNIOR SECONDARY SCHOOL 1",
+  "JUNIOR SECONDARY SCHOOL 2",
+  "JUNIOR SECONDARY SCHOOL 3",
+  "SENIOR SECONDARY SCHOOL 1",
+  "SENIOR SECONDARY SCHOOL 2",
+  "SENIOR SECONDARY SCHOOL 3"
+ ],
+ "totalStudents": 252,
+ "activeStudents": 119,
+ "leftStudents": 133,
+ "classCounts": {
+  "NURSERY 1": 20,
+  "PRIMARY 2": 8,
+  "SENIOR SECONDARY SCHOOL 2": 7,
+  "NURSERY 2": 9,
+  "PLAYGROUP 2": 10,
+  "PRIMARY 3": 9,
+  "JUNIOR SECONDARY SCHOOL 2": 5,
+  "SENIOR SECONDARY SCHOOL 1": 1,
+  "PLAYGROUP 1": 21,
+  "PRIMARY 1": 9,
+  "PRIMARY 5": 4,
+  "JUNIOR SECONDARY SCHOOL 3": 11,
+  "PRIMARY 4": 4,
+  "SENIOR SECONDARY SCHOOL 3": 1
+ },
+ "currentOutstanding": 3911720
+}

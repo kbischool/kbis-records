@@ -1,0 +1,286 @@
+{
+ "classes": [
+  {
+   "class": "CRECHE",
+   "items": {
+    "AD-FORM": 2000,
+    "TUITION": 26000,
+    "PTA": 2000,
+    "EXAM": 2000,
+    "REPORT CARD": 1000,
+    "NB & STAT": 3200,
+    "UNIFORM": 16000,
+    "HOODY": 8000,
+    "SPORTSWEAR": 7000,
+    "AFTERSCHOOL": 6000
+   },
+   "grandTotal": 73200
+  },
+  {
+   "class": "PLAYGROUP 1",
+   "items": {
+    "AD-FORM": 2000,
+    "TUITION": 26000,
+    "PTA": 2000,
+    "EXAM": 2000,
+    "REPORT CARD": 1000,
+    "TEXTBOOKS": 8040,
+    "NB & STAT": 5300,
+    "UNIFORM": 16000,
+    "HOODY": 8000,
+    "SPORTSWEAR": 7000,
+    "AFTERSCHOOL": 6000
+   },
+   "grandTotal": 83340
+  },
+  {
+   "class": "PLAYGROUP 2",
+   "items": {
+    "AD-FORM": 2000,
+    "TUITION": 26000,
+    "PTA": 2000,
+    "EXAM": 2000,
+    "REPORT CARD": 1000,
+    "TEXTBOOKS": 12360,
+    "NB & STAT": 7400,
+    "UNIFORM": 16000,
+    "HOODY": 8000,
+    "SPORTSWEAR": 7000,
+    "AFTERSCHOOL": 6000
+   },
+   "grandTotal": 89760
+  },
+  {
+   "class": "NURSERY 1",
+   "items": {
+    "AD-FORM": 2000,
+    "TUITION": 26000,
+    "PTA": 2000,
+    "EXAM": 2000,
+    "REPORT CARD": 1000,
+    "TEXTBOOKS": 12840,
+    "NB & STAT": 7400,
+    "UNIFORM": 16000,
+    "HOODY": 8000,
+    "SPORTSWEAR": 7000,
+    "AFTERSCHOOL": 6000
+   },
+   "grandTotal": 90240
+  },
+  {
+   "class": "NURSERY 2",
+   "items": {
+    "AD-FORM": 2000,
+    "TUITION": 26000,
+    "PTA": 2000,
+    "EXAM": 2000,
+    "REPORT CARD": 1000,
+    "TEXTBOOKS": 28080,
+    "NB & STAT": 10330,
+    "UNIFORM": 16000,
+    "HOODY": 8000,
+    "SPORTSWEAR": 7000,
+    "AFTERSCHOOL": 6000
+   },
+   "grandTotal": 108410
+  },
+  {
+   "class": "PRIMARY 1",
+   "items": {
+    "AD-FORM": 2000,
+    "TUITION": 28000,
+    "PTA": 2000,
+    "EXAM": 2000,
+    "REPORT CARD": 2500,
+    "PRACTICALS": 5000,
+    "TEXTBOOKS": 24900,
+    "NB & STAT": 10780,
+    "UNIFORM": 16000,
+    "HOODY": 8000,
+    "SPORTSWEAR": 7000,
+    "AFTERSCHOOL": 6000
+   },
+   "grandTotal": 114180
+  },
+  {
+   "class": "PRIMARY 2",
+   "items": {
+    "AD-FORM": 2000,
+    "TUITION": 28000,
+    "PTA": 2000,
+    "EXAM": 2000,
+    "REPORT CARD": 2500,
+    "PRACTICALS": 5000,
+    "TEXTBOOKS": 24900,
+    "NB & STAT": 10780,
+    "UNIFORM": 16000,
+    "HOODY": 8000,
+    "SPORTSWEAR": 7000,
+    "AFTERSCHOOL": 6000
+   },
+   "grandTotal": 114180
+  },
+  {
+   "class": "PRIMARY 3",
+   "items": {
+    "AD-FORM": 2000,
+    "TUITION": 28000,
+    "PTA": 2000,
+    "EXAM": 2000,
+    "REPORT CARD": 2500,
+    "PRACTICALS": 5000,
+    "TEXTBOOKS": 26040,
+    "NB & STAT": 12020,
+    "UNIFORM": 16000,
+    "HOODY": 8000,
+    "SPORTSWEAR": 7000,
+    "AFTERSCHOOL": 6000
+   },
+   "grandTotal": 116560
+  },
+  {
+   "class": "PRIMARY 4",
+   "items": {
+    "AD-FORM": 2000,
+    "TUITION": 28000,
+    "PTA": 2000,
+    "EXAM": 2000,
+    "REPORT CARD": 2500,
+    "PRACTICALS": 5000,
+    "TEXTBOOKS": 26040,
+    "NB & STAT": 12020,
+    "UNIFORM": 16000,
+    "HOODY": 8000,
+    "SPORTSWEAR": 7000,
+    "AFTERSCHOOL": 6000
+   },
+   "grandTotal": 116560
+  },
+  {
+   "class": "PRIMARY 5",
+   "items": {
+    "AD-FORM": 2000,
+    "TUITION": 28000,
+    "PTA": 2000,
+    "EXAM": 2000,
+    "REPORT CARD": 2500,
+    "PRACTICALS": 5000,
+    "TEXTBOOKS": 27660,
+    "NB & STAT": 12020,
+    "UNIFORM": 16000,
+    "HOODY": 8000,
+    "SPORTSWEAR": 7000,
+    "AFTERSCHOOL": 6000
+   },
+   "grandTotal": 118180
+  },
+  {
+   "class": "JUNIOR SECONDARY SCHOOL 1",
+   "items": {
+    "AD-FORM": 3000,
+    "TUITION": 33000,
+    "PTA": 2000,
+    "EXAM": 3000,
+    "REPORT CARD": 2000,
+    "PRACTICALS": 6000,
+    "TEXTBOOKS": 17940,
+    "NB & STAT": 29790,
+    "UNIFORM": 12000,
+    "HOODY": 8000,
+    "SPORTSWEAR": 8000,
+    "AFTERSCHOOL": 8000
+   },
+   "grandTotal": 132730
+  },
+  {
+   "class": "JUNIOR SECONDARY SCHOOL 2",
+   "items": {
+    "AD-FORM": 3000,
+    "TUITION": 33000,
+    "PTA": 2000,
+    "EXAM": 3000,
+    "REPORT CARD": 2000,
+    "PRACTICALS": 6000,
+    "TEXTBOOKS": 17940,
+    "NB & STAT": 14990,
+    "UNIFORM": 12000,
+    "HOODY": 8000,
+    "SPORTSWEAR": 8000,
+    "AFTERSCHOOL": 8000
+   },
+   "grandTotal": 117930
+  },
+  {
+   "class": "JUNIOR SECONDARY SCHOOL 3",
+   "items": {
+    "AD-FORM": 3000,
+    "TUITION": 33000,
+    "PTA": 2000,
+    "EXAM": 3000,
+    "REPORT CARD": 2000,
+    "PRACTICALS": 6000,
+    "TEXTBOOKS": 24180,
+    "NB & STAT": 14990,
+    "UNIFORM": 12000,
+    "HOODY": 8000,
+    "SPORTSWEAR": 8000,
+    "AFTERSCHOOL": 8000
+   },
+   "grandTotal": 124170
+  },
+  {
+   "class": "SENIOR SECONDARY SCHOOL 1",
+   "items": {
+    "AD-FORM": 3000,
+    "TUITION": 40000,
+    "PTA": 2000,
+    "EXAM": 3000,
+    "REPORT CARD": 2000,
+    "PRACTICALS": 8000,
+    "TEXTBOOKS": 12480,
+    "NB & STAT": 27390,
+    "UNIFORM": 20000,
+    "HOODY": 8000,
+    "SPORTSWEAR": 8000,
+    "AFTERSCHOOL": 8000
+   },
+   "grandTotal": 141870
+  },
+  {
+   "class": "SENIOR SECONDARY SCHOOL 2",
+   "items": {
+    "AD-FORM": 3000,
+    "TUITION": 40000,
+    "PTA": 2000,
+    "EXAM": 3000,
+    "REPORT CARD": 2000,
+    "PRACTICALS": 8000,
+    "TEXTBOOKS": 12480,
+    "NB & STAT": 14990,
+    "UNIFORM": 20000,
+    "HOODY": 8000,
+    "SPORTSWEAR": 8000,
+    "AFTERSCHOOL": 8000
+   },
+   "grandTotal": 129470
+  },
+  {
+   "class": "SENIOR SECONDARY SCHOOL 3",
+   "items": {
+    "AD-FORM": 3000,
+    "TUITION": 40000,
+    "PTA": 2000,
+    "EXAM": 3000,
+    "REPORT CARD": 2000,
+    "PRACTICALS": 8000,
+    "TEXTBOOKS": 12480,
+    "NB & STAT": 14990,
+    "UNIFORM": 20000,
+    "HOODY": 8000,
+    "SPORTSWEAR": 8000,
+    "AFTERSCHOOL": 8000
+   },
+   "grandTotal": 129470
+  }
+ ]
+}
