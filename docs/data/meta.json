@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14T07:05:26.985336+00:00",
+ "generatedAt": "2026-08-14T13:49:20.944594+00:00",
  "sessions": [
   "2021-2022",
   "2022-2023",
@@ -39,12 +39,13 @@
   "PRIMARY 3": 9,
   "JUNIOR SECONDARY SCHOOL 2": 5,
   "SENIOR SECONDARY SCHOOL 1": 1,
-  "PLAYGROUP 1": 21,
+  "PLAYGROUP 1": 18,
   "PRIMARY 1": 9,
   "PRIMARY 5": 4,
   "JUNIOR SECONDARY SCHOOL 3": 11,
+  "CRECHE": 3,
   "PRIMARY 4": 4,
   "SENIOR SECONDARY SCHOOL 3": 1
  },
- "currentOutstanding": 7883310
+ "currentOutstanding": 7759440
 }

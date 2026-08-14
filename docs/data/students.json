@@ -10134,11 +10134,11 @@
   "lastName": "Akande",
   "firstName": "Michelle Oreofe",
   "status": "active",
-  "currentClass": "PLAYGROUP 1",
+  "currentClass": "CRECHE",
   "firstSession": "2025-2026",
   "lastSession": "2026-2027",
   "sessionCount": 2,
-  "latestBalance": 68590,
+  "latestBalance": 27300,
   "sessions": [
    {
     "session": "2025-2026",
@@ -10172,20 +10172,16 @@
     "terms": [
      {
       "term": "1st Term",
-      "class": "PLAYGROUP 1",
-      "total": 68590,
+      "class": "CRECHE",
+      "total": 27300,
       "paid": 0,
-      "balance": 68590,
+      "balance": 27300,
       "discount": 0.25,
       "items": {
        "TUITION": 19500,
        "PTA&EXAM": 4000,
        "REPORT_CARD": 750,
-       "TEXTBOOKS": 8040,
-       "NB & STAT": 5300,
-       "UNIFORM": 16000,
-       "HOODY": 8000,
-       "SPORTSWEAR": 7000
+       "NB & STAT": 3050
       },
       "reference": {
        "FULL TUITION": 26000,
@@ -11559,11 +11555,11 @@
   "lastName": "Alabi",
   "firstName": "Adekunle",
   "status": "active",
-  "currentClass": "PLAYGROUP 1",
+  "currentClass": "CRECHE",
   "firstSession": "2025-2026",
   "lastSession": "2026-2027",
   "sessionCount": 2,
-  "latestBalance": 75340,
+  "latestBalance": 34050,
   "sessions": [
    {
     "session": "2025-2026",
@@ -11598,20 +11594,16 @@
     "terms": [
      {
       "term": "1st Term",
-      "class": "PLAYGROUP 1",
-      "total": 75340,
+      "class": "CRECHE",
+      "total": 34050,
       "paid": 0,
-      "balance": 75340,
+      "balance": 34050,
       "discount": 0,
       "items": {
        "TUITION": 26000,
        "PTA&EXAM": 4000,
        "REPORT_CARD": 1000,
-       "TEXTBOOKS": 8040,
-       "NB & STAT": 5300,
-       "UNIFORM": 16000,
-       "HOODY": 8000,
-       "SPORTSWEAR": 7000
+       "NB & STAT": 3050
       },
       "reference": {
        "FULL TUITION": 26000,
@@ -32222,11 +32214,11 @@
   "lastName": "Oyetunji",
   "firstName": "Imoleayo Mary",
   "status": "active",
-  "currentClass": "PLAYGROUP 1",
+  "currentClass": "CRECHE",
   "firstSession": "2025-2026",
   "lastSession": "2026-2027",
   "sessionCount": 2,
-  "latestBalance": 68590,
+  "latestBalance": 27300,
   "sessions": [
    {
     "session": "2025-2026",
@@ -32261,20 +32253,16 @@
     "terms": [
      {
       "term": "1st Term",
-      "class": "PLAYGROUP 1",
-      "total": 68590,
+      "class": "CRECHE",
+      "total": 27300,
       "paid": 0,
-      "balance": 68590,
+      "balance": 27300,
       "discount": 0.25,
       "items": {
        "TUITION": 19500,
        "PTA&EXAM": 4000,
        "REPORT_CARD": 750,
-       "TEXTBOOKS": 8040,
-       "NB & STAT": 5300,
-       "UNIFORM": 16000,
-       "HOODY": 8000,
-       "SPORTSWEAR": 7000
+       "NB & STAT": 3050
       },
       "reference": {
        "FULL TUITION": 26000,
