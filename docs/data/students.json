@@ -4143,7 +4143,7 @@
   "firstSession": "2022-2023",
   "lastSession": "2026-2027",
   "sessionCount": 5,
-  "latestBalance": 71970,
+  "latestBalance": 73845,
   "sessions": [
    {
     "session": "2022-2023",
@@ -4434,13 +4434,14 @@
      {
       "term": "1st Term",
       "class": "PRIMARY 1",
-      "total": 71970,
+      "total": 73845,
       "paid": 0,
-      "balance": 71970,
+      "balance": 73845,
       "discount": 0.25,
       "items": {
        "TUITION": 21000,
        "PTA&EXAM": 4000,
+       "REPORT_CARD": 1875,
        "PRACTICAL": 3750,
        "TEXTBOOKS": 25890,
        "NB & STAT": 11330,
@@ -4449,6 +4450,7 @@
       "reference": {
        "FULL TUITION": 28000,
        "PTA/EXAM": 4000,
+       "REPORT CARD": 2500,
        "PRACTICALS": 5000
       },
       "deposits": {},
@@ -15290,7 +15292,7 @@
   "firstSession": "2021-2022",
   "lastSession": "2026-2027",
   "sessionCount": 6,
-  "latestBalance": 80220,
+  "latestBalance": 82720,
   "sessions": [
    {
     "session": "2021-2022",
@@ -15635,13 +15637,14 @@
      {
       "term": "1st Term",
       "class": "PRIMARY 1",
-      "total": 80220,
+      "total": 82720,
       "paid": 0,
-      "balance": 80220,
+      "balance": 82720,
       "discount": 0,
       "items": {
        "TUITION": 28000,
        "PTA&EXAM": 4000,
+       "REPORT_CARD": 2500,
        "PRACTICAL": 5000,
        "TEXTBOOKS": 25890,
        "NB & STAT": 11330,
@@ -15650,6 +15653,7 @@
       "reference": {
        "FULL TUITION": 28000,
        "PTA/EXAM": 4000,
+       "REPORT CARD": 2500,
        "PRACTICALS": 5000
       },
       "deposits": {},
@@ -17075,7 +17079,7 @@
   "firstSession": "2025-2026",
   "lastSession": "2026-2027",
   "sessionCount": 2,
-  "latestBalance": 74220,
+  "latestBalance": 76720,
   "sessions": [
    {
     "session": "2025-2026",
@@ -17155,13 +17159,14 @@
      {
       "term": "1st Term",
       "class": "PRIMARY 1",
-      "total": 74220,
+      "total": 76720,
       "paid": 0,
-      "balance": 74220,
+      "balance": 76720,
       "discount": 0,
       "items": {
        "TUITION": 28000,
        "PTA&EXAM": 4000,
+       "REPORT_CARD": 2500,
        "PRACTICAL": 5000,
        "TEXTBOOKS": 25890,
        "NB & STAT": 11330
@@ -17169,6 +17174,7 @@
       "reference": {
        "FULL TUITION": 28000,
        "PTA/EXAM": 4000,
+       "REPORT CARD": 2500,
        "PRACTICALS": 5000
       },
       "deposits": {},
@@ -17377,7 +17383,7 @@
   "firstSession": "2024-2025",
   "lastSession": "2026-2027",
   "sessionCount": 3,
-  "latestBalance": 74770,
+  "latestBalance": 77270,
   "sessions": [
    {
     "session": "2024-2025",
@@ -17534,13 +17540,14 @@
      {
       "term": "1st Term",
       "class": "PRIMARY 1",
-      "total": 74770,
+      "total": 77270,
       "paid": 0,
-      "balance": 74770,
+      "balance": 77270,
       "discount": 0,
       "items": {
        "TUITION": 28000,
        "PTA&EXAM": 4000,
+       "REPORT_CARD": 2500,
        "PRACTICAL": 5000,
        "TEXTBOOKS": 25890,
        "NB & STAT": 11330,
@@ -17549,6 +17556,7 @@
       "reference": {
        "FULL TUITION": 28000,
        "PTA/EXAM": 4000,
+       "REPORT CARD": 2500,
        "PRACTICALS": 5000
       },
       "deposits": {},
@@ -18570,7 +18578,7 @@
   "firstSession": "2025-2026",
   "lastSession": "2026-2027",
   "sessionCount": 2,
-  "latestBalance": 61840,
+  "latestBalance": 30840,
   "sessions": [
    {
     "session": "2025-2026",
@@ -18630,19 +18638,16 @@
      {
       "term": "1st Term",
       "class": "PLAYGROUP 1",
-      "total": 61840,
+      "total": 30840,
       "paid": 0,
-      "balance": 61840,
+      "balance": 30840,
       "discount": 0.5,
       "items": {
        "TUITION": 13000,
        "PTA&EXAM": 4000,
        "REPORT_CARD": 500,
        "TEXTBOOKS": 8040,
-       "NB & STAT": 5300,
-       "UNIFORM": 16000,
-       "HOODY": 8000,
-       "SPORTSWEAR": 7000
+       "NB & STAT": 5300
       },
       "reference": {
        "FULL TUITION": 26000,
@@ -24011,7 +24016,7 @@
   "firstSession": "2022-2023",
   "lastSession": "2026-2027",
   "sessionCount": 5,
-  "latestBalance": 65970,
+  "latestBalance": 67845,
   "sessions": [
    {
     "session": "2022-2023",
@@ -24294,13 +24299,14 @@
      {
       "term": "1st Term",
       "class": "PRIMARY 1",
-      "total": 65970,
+      "total": 67845,
       "paid": 0,
-      "balance": 65970,
+      "balance": 67845,
       "discount": 0.25,
       "items": {
        "TUITION": 21000,
        "PTA&EXAM": 4000,
+       "REPORT_CARD": 1875,
        "PRACTICAL": 3750,
        "TEXTBOOKS": 25890,
        "NB & STAT": 11330
@@ -24308,6 +24314,7 @@
       "reference": {
        "FULL TUITION": 28000,
        "PTA/EXAM": 4000,
+       "REPORT CARD": 2500,
        "PRACTICALS": 5000
       },
       "deposits": {},
@@ -27103,7 +27110,7 @@
   "firstSession": "2023-2024",
   "lastSession": "2026-2027",
   "sessionCount": 4,
-  "latestBalance": 71970,
+  "latestBalance": 73845,
   "sessions": [
    {
     "session": "2023-2024",
@@ -27341,13 +27348,14 @@
      {
       "term": "1st Term",
       "class": "PRIMARY 1",
-      "total": 71970,
+      "total": 73845,
       "paid": 0,
-      "balance": 71970,
+      "balance": 73845,
       "discount": 0.25,
       "items": {
        "TUITION": 21000,
        "PTA&EXAM": 4000,
+       "REPORT_CARD": 1875,
        "PRACTICAL": 3750,
        "TEXTBOOKS": 25890,
        "NB & STAT": 11330,
@@ -27356,6 +27364,7 @@
       "reference": {
        "FULL TUITION": 28000,
        "PTA/EXAM": 4000,
+       "REPORT CARD": 2500,
        "PRACTICALS": 5000
       },
       "deposits": {},
@@ -27436,7 +27445,7 @@
   "firstSession": "2024-2025",
   "lastSession": "2026-2027",
   "sessionCount": 3,
-  "latestBalance": 74220,
+  "latestBalance": 76720,
   "sessions": [
    {
     "session": "2024-2025",
@@ -27596,13 +27605,14 @@
      {
       "term": "1st Term",
       "class": "PRIMARY 1",
-      "total": 74220,
+      "total": 76720,
       "paid": 0,
-      "balance": 74220,
+      "balance": 76720,
       "discount": 0,
       "items": {
        "TUITION": 28000,
        "PTA&EXAM": 4000,
+       "REPORT_CARD": 2500,
        "PRACTICAL": 5000,
        "TEXTBOOKS": 25890,
        "NB & STAT": 11330
@@ -27610,6 +27620,7 @@
       "reference": {
        "FULL TUITION": 28000,
        "PTA/EXAM": 4000,
+       "REPORT CARD": 2500,
        "PRACTICALS": 5000
       },
       "deposits": {},
@@ -29401,7 +29412,7 @@
   "firstSession": "2023-2024",
   "lastSession": "2026-2027",
   "sessionCount": 4,
-  "latestBalance": 71970,
+  "latestBalance": 73845,
   "sessions": [
    {
     "session": "2023-2024",
@@ -29608,13 +29619,14 @@
      {
       "term": "1st Term",
       "class": "PRIMARY 1",
-      "total": 71970,
+      "total": 73845,
       "paid": 0,
-      "balance": 71970,
+      "balance": 73845,
       "discount": 0.25,
       "items": {
        "TUITION": 21000,
        "PTA&EXAM": 4000,
+       "REPORT_CARD": 1875,
        "PRACTICAL": 3750,
        "TEXTBOOKS": 25890,
        "NB & STAT": 11330,
@@ -29623,6 +29635,7 @@
       "reference": {
        "FULL TUITION": 28000,
        "PTA/EXAM": 4000,
+       "REPORT CARD": 2500,
        "PRACTICALS": 5000
       },
       "deposits": {},
@@ -34845,7 +34858,7 @@
   "firstSession": "2025-2026",
   "lastSession": "2026-2027",
   "sessionCount": 2,
-  "latestBalance": 81470,
+  "latestBalance": 83345,
   "sessions": [
    {
     "session": "2025-2026",
@@ -34933,13 +34946,14 @@
      {
       "term": "1st Term",
       "class": "PRIMARY 1",
-      "total": 81470,
+      "total": 83345,
       "paid": 0,
-      "balance": 81470,
+      "balance": 83345,
       "discount": 0.25,
       "items": {
        "TUITION": 21000,
        "PTA&EXAM": 4000,
+       "REPORT_CARD": 1875,
        "PRACTICAL": 3750,
        "TEXTBOOKS": 25890,
        "NB & STAT": 11330,
@@ -34949,6 +34963,7 @@
       "reference": {
        "FULL TUITION": 28000,
        "PTA/EXAM": 4000,
+       "REPORT CARD": 2500,
        "PRACTICALS": 5000
       },
       "deposits": {},
