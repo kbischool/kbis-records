@@ -1,7 +1,7 @@
 /* KBIS Schools — service worker
    Cache-first app shell, stale-while-revalidate data, offline fallback.
    Bump CACHE_VERSION whenever you change any file in APP_SHELL. */
-const CACHE_VERSION = 'kbis-v1';
+const CACHE_VERSION = 'kbis-v2';
 const SHELL_CACHE = `${CACHE_VERSION}-shell`;
 const DATA_CACHE = `${CACHE_VERSION}-data`;
 

@@ -206,6 +206,80 @@ function showToast(msg, opts = {}) {
   toastTimer = setTimeout(() => t.classList.remove('show'), 5000);
 }
 
+/* -------------------------------- sharing ------------------------------ */
+async function shareText(title, text) {
+  if (navigator.share) {
+    try {
+      await navigator.share({ title, text });
+      return;
+    } catch (e) {
+      if (e && e.name === 'AbortError') return; // user cancelled — do nothing
+      // otherwise fall through to the clipboard fallback below
+    }
+  }
+  try {
+    await navigator.clipboard.writeText(text);
+    showToast('Copied to clipboard — paste it into WhatsApp, SMS, or email.');
+  } catch (e) {
+    showToast('Could not share automatically — please copy the details manually.');
+  }
+}
+
+function classShareText(c) {
+  const items = Object.entries(c.items || {});
+  const lines = [
+    KBIS_CONFIG.SCHOOL_NAME,
+    `Fee Structure — ${classShort(c.class)}`,
+    `${STORE.meta.currentSession || ''} session`.trim(),
+    '',
+    ...items.map(([k, v]) => `${prettyLabel(k)}: ${naira(v)}`),
+    '',
+    `Grand Total: ${naira(c.grandTotal)}`,
+  ];
+  return lines.join('\n');
+}
+
+function termShareText(s, se, t) {
+  const itemEntries = Object.entries(t.items || {});
+  const extraEntries = Object.entries(t.extra || {});
+  const depositEntries = Object.entries(t.deposits || {});
+  const lines = [
+    KBIS_CONFIG.SCHOOL_NAME,
+    `${s.lastName} ${s.firstName} — ${t.term}, ${se.session}`,
+    `Class: ${classShort(t.class)}`,
+    '',
+  ];
+  itemEntries.forEach(([k, v]) => lines.push(`${prettyLabel(k)}: ${naira(v)}`));
+  extraEntries.forEach(([k, v]) => lines.push(`${prettyLabel(k)}: ${naira(v)}`));
+  depositEntries.forEach(([k, v]) => lines.push(`${prettyLabel(k)} (paid): ${naira(v)}`));
+  if (!itemEntries.length && !extraEntries.length && !depositEntries.length) {
+    lines.push('No itemised charges recorded for this term.');
+  }
+  if (t.discount) lines.push('', `Discount applied: ${(t.discount * 100).toFixed(0)}%`);
+  lines.push('', `Total Fee: ${naira(t.total)}`, `Paid: ${naira(t.paid)}`, `Balance: ${naira(t.balance)}`);
+  return lines.join('\n');
+}
+
+function studentShareText(s) {
+  const lines = [
+    KBIS_CONFIG.SCHOOL_NAME,
+    `Account Statement — ${s.lastName} ${s.firstName}`,
+    `${classShort(s.currentClass)} · ${s.status === 'active' ? 'Currently enrolled' : `Left after ${s.lastSession}`}`,
+    '',
+  ];
+  s.sessions.forEach((se) => {
+    const activeTerms = se.terms.filter((t) => t.total || t.paid || t.balance);
+    if (!activeTerms.length) return;
+    lines.push(se.session);
+    activeTerms.forEach((t) => {
+      lines.push(`  ${t.term} (${classShort(t.class)}): Total ${naira(t.total)} · Paid ${naira(t.paid)} · Balance ${naira(t.balance)}`);
+    });
+    lines.push('');
+  });
+  lines.push(`Current Balance: ${naira(s.latestBalance)}`);
+  return lines.join('\n');
+}
+
 /* -------------------------------- router ------------------------------ */
 function currentRoute() {
   const hash = location.hash.replace(/^#\/?/, '');
@@ -233,6 +307,7 @@ const ICONS = {
   empty: '<circle cx="12" cy="12" r="9"/><path d="M9 10h.01M15 10h.01M8 15c1.2 1 2.6 1.5 4 1.5s2.8-.5 4-1.5"/>',
   lock: '<rect x="5" y="11" width="14" height="9" rx="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/>',
   check: '<path d="M20 6 9 17l-5-5"/>',
+  share: '<circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 10.5 15.4 6.5M8.6 13.5 15.4 17.5"/>',
 };
 function icon(name, cls = '') { return `<svg class="${cls}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${ICONS[name] || ''}</svg>`; }
 
@@ -394,7 +469,10 @@ function viewStudent(id) {
     <div class="fade-in">
       <div class="passport">
         <div class="passport-head">
-          <button class="back" data-nav="students">${icon('back')}</button>
+          <div class="passport-actions">
+            <button class="back" data-nav="students">${icon('back')}</button>
+            <button class="back" type="button" data-share-student title="Share account statement" aria-label="Share account statement">${icon('share')}</button>
+          </div>
           <div class="passport-id">
             <div class="avatar" style="background:${avatarGradient(s.id)}">${initials(s.firstName, s.lastName)}</div>
             <div>
@@ -446,6 +524,7 @@ function termCardHtml(t, idx) {
           <div class="amt">${naira(t.total)}</div>
           <div class="st ${t.balance > 0 ? 'due' : 'paid'}">${t.balance > 0 ? naira(t.balance) + ' due' : 'Fully paid'}</div>
         </div>
+        <button class="icon-btn" type="button" data-share-term="${idx}" title="Share this term's bill" aria-label="Share this term's bill">${icon('share')}</button>
         ${icon('chevron', 'chev')}
       </div>
       <div class="term-progress"><div class="fill" style="width:${paidPct}%"></div></div>
@@ -487,6 +566,7 @@ function classCardHtml(c) {
       <div class="class-head">
         <span class="name">${classShort(c.class)}</span>
         <span class="gt">${naira(c.grandTotal)}</span>
+        <button class="icon-btn" type="button" data-share-class="${escapeHtml(c.class)}" title="Share this fee structure" aria-label="Share this fee structure">${icon('share')}</button>
         ${icon('chevron', 'chev')}
       </div>
       <div class="class-body">
@@ -560,6 +640,9 @@ function wireView(route) {
   }
 
   if (route === 'student') {
+    const { parts } = currentRoute();
+    const student = STORE.students.find((x) => x.id === parts[1]);
+
     $all('[data-session]').forEach((tab) => tab.addEventListener('click', () => { openTermSession = tab.dataset.session; render(); }));
     $all('[data-toggle-term]').forEach((h) => h.addEventListener('click', () => {
       h.closest('.term-card').classList.toggle('open');
@@ -570,10 +653,27 @@ function wireView(route) {
       const due = cards.find((c, i) => { /* peek balance via DOM */ return c.querySelector('.st.due'); });
       (due || cards[cards.length - 1]).classList.add('open');
     }
+
+    $all('[data-share-student]').forEach((b) => b.addEventListener('click', (e) => {
+      e.stopPropagation();
+      if (student) shareText(`${student.lastName} ${student.firstName} — Account Statement`, studentShareText(student));
+    }));
+    $all('[data-share-term]').forEach((b) => b.addEventListener('click', (e) => {
+      e.stopPropagation();
+      if (!student) return;
+      const activeSess = student.sessions.find((se) => se.session === openTermSession) || student.sessions[student.sessions.length - 1];
+      const t = activeSess.terms[Number(b.dataset.shareTerm)];
+      if (t) shareText(`${student.lastName} ${student.firstName} — ${t.term}`, termShareText(student, activeSess, t));
+    }));
   }
 
   if (route === 'fees') {
     $all('[data-class-toggle]').forEach((c) => c.querySelector('.class-head').addEventListener('click', () => c.classList.toggle('open')));
+    $all('[data-share-class]').forEach((b) => b.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const cls = (STORE.invoice.classes || []).find((c) => c.class === b.dataset.shareClass);
+      if (cls) shareText(`${classShort(cls.class)} Fee Structure`, classShareText(cls));
+    }));
   }
 
   if (route === 'sync') {

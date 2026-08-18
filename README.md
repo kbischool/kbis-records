@@ -142,7 +142,22 @@ complexity than this "edit a spreadsheet, push, done" workflow.
 
 ---
 
-## 7. Known data quirks worth knowing about
+## 7. Sharing a fee structure or a student's account
+
+Every fee-structure card (**Fees** tab) and every student term card / the
+student's full statement (**Students → a student**) has a small share icon.
+Tapping it:
+
+- On a phone/tablet with native sharing (iOS Safari, Android Chrome, etc.):
+  opens the normal share sheet (WhatsApp, SMS, Mail, etc.) with a plain-text
+  summary pre-filled.
+- On desktop browsers without native sharing: copies the same summary to
+  the clipboard and shows a toast — paste it wherever you need it.
+
+Nothing is sent anywhere by the app itself; it only hands text to whatever
+the person picks in their own share sheet or clipboard.
+
+## 8. Known data quirks worth knowing about
 
 - Students are matched across sessions by their **exact** name as typed
   in the spreadsheet (last name + first name). If the same child was
@@ -158,7 +173,7 @@ complexity than this "edit a spreadsheet, push, done" workflow.
 
 ---
 
-## 8. Customising the look
+## 9. Customising the look
 
 - Colours, fonts, spacing: `docs/css/styles.css` — all brand colours are
   CSS variables at the top of the file (`--sky`, `--pink`, `--amber`, …).
