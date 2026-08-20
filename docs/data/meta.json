@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19T13:33:34.107489+00:00",
+ "generatedAt": "2026-08-20T01:52:42.815255+00:00",
  "sessions": [
   "2021-2022",
   "2022-2023",
@@ -27,9 +27,9 @@
   "SENIOR SECONDARY SCHOOL 2",
   "SENIOR SECONDARY SCHOOL 3"
  ],
- "totalStudents": 252,
+ "totalStudents": 222,
  "activeStudents": 119,
- "leftStudents": 133,
+ "leftStudents": 103,
  "classCounts": {
   "NURSERY 1": 20,
   "PRIMARY 2": 8,

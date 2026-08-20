@@ -1336,301 +1336,6 @@
   ]
  },
  {
-  "id": "adebayo-alexander",
-  "lastName": "Adebayo",
-  "firstName": "Alexander",
-  "status": "left",
-  "currentClass": "PRIMARY 1",
-  "firstSession": "2021-2022",
-  "lastSession": "2024-2025",
-  "sessionCount": 4,
-  "latestBalance": 0,
-  "sessions": [
-   {
-    "session": "2021-2022",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "PLAYGROUP 1",
-      "total": 20000,
-      "paid": 0,
-      "balance": 20000,
-      "discount": 0,
-      "items": {
-       "TUITION": 18500,
-       "PTA/EXAM": 1500
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "PLAYGROUP 1",
-      "total": 24500,
-      "paid": 24500,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "TUITION": 18500,
-       "PTA/EXAM": 1500,
-       "AFTER SCHOOL CLUB": 4500
-      },
-      "reference": {},
-      "deposits": {
-       "FIRST DEPOSIT": 10000,
-       "SECOND DEPOSIT": 14500
-      },
-      "extra": {}
-     },
-     {
-      "term": "3rd Term",
-      "class": "PLAYGROUP 1",
-      "total": 32500,
-      "paid": 32500,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "TUITION": 18500,
-       "PTA/EXAM": 1500,
-       "YEAR BOOK": 2000,
-       "AFTER SCHOOL CLUB": 4500,
-       "EXCURSION": 1000,
-       "END OF YEAR PARTY": 5000,
-       "PAY 1": 15000,
-       "PAY 2": 1000,
-       "PAY 3": 16500
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   },
-   {
-    "session": "2022-2023",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "03 PG2",
-      "total": 46050,
-      "paid": 46050,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "S/N": 8,
-       "SCHOOL FEE": 18500,
-       "PTA/EXAM": 1500,
-       "REPORT CARD": 1000,
-       "TEXTBOOKS & STATIONARIES": 16350,
-       "NOTEBOOKS": 2700,
-       "MAINTENANCE": 1500,
-       "AFTER SCHOOL CLUB": 4500,
-       "PAY 1": 31000,
-       "PAY 2": 10050,
-       "PAY 3": 5000
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "03 PG2",
-      "total": 21500,
-      "paid": 21500,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "S/N": 2,
-       "TUITION FEE": 18500,
-       "PTA/EXAM": 1500,
-       "MAINTENANCE": 1500,
-       "OUTSTANDING": -2000,
-       "GRAND TOTAL FEE": 19500,
-       "50% FEE": 9750,
-       "1ST 50% PAY": 15000,
-       "2ND 50% PAY": 6500,
-       "GRAND TOTAL PAID": 21500,
-       "GRAND TOTAL BALANCE": -2000
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "3rd Term",
-      "class": "03 PG2",
-      "total": 24500,
-      "paid": 24500,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "TUITION FEE": 20000,
-       "PTA/EXAM": 1500,
-       "END OF YEAR PARTY": 5000,
-       "OUTSTANDING": -2000
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   },
-   {
-    "session": "2023-2024",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "NURSERY 2",
-      "total": 56630,
-      "paid": 56630,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "TUITION": 15000,
-       "PTA/EXAM": 1500,
-       "REPORT CARD": 1000,
-       "PRACTICALS": 1000,
-       "TEXTBOOKS": 16970,
-       "NB & STAT": 7160,
-       "AFTERSCHOOL": 5000,
-       "EXCURSION": 4000,
-       "HOLIDAY LESSON": 5000
-      },
-      "reference": {
-       "ACTUAL TUITION": 20000
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "NURSERY 2",
-      "total": 24500,
-      "paid": 22500,
-      "balance": 2000,
-      "discount": 0,
-      "items": {
-       "TUITION": 15000,
-       "PTA/EXAM": 1500,
-       "PRACTICALS": 1000,
-       "NB & STAT": 2000,
-       "AFTERSCHOOL": 5000
-      },
-      "reference": {
-       "ACTUAL TUITION": 20000
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "3rd Term",
-      "class": "NURSERY 2",
-      "total": 37750,
-      "paid": 37750,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "TUITION": 17250,
-       "PTA/EXAM": 1500,
-       "PRACTICALS": 2000,
-       "AFTERSCHOOL": 5000,
-       "GRADUATION/ SPORTS/PARTY": 10000,
-       "OUTSTANDING": 2000
-      },
-      "reference": {
-       "ACTUAL TUITION": 23000
-      },
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   },
-   {
-    "session": "2024-2025",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "PRIMARY 1",
-      "total": 81725,
-      "paid": 69725,
-      "balance": 12000,
-      "discount": 0.25,
-      "items": {
-       "TUITION": 18750,
-       "PTA&EXAM": 1500,
-       "REPORT_CARD": 1875,
-       "PRACTICAL": 3000,
-       "TEXTBOOKS": 24400,
-       "NB & STAT": 10400,
-       "UNIFORM": 8000,
-       "SPORTSWEAR": 4000,
-       "AFTERSCHOOL": 5000,
-       "HOLIDAY LESSON": 4800
-      },
-      "reference": {
-       "FULL TUITION": 25000,
-       "PTA/EXAM": 2000,
-       "REPORT CARD": 2500,
-       "PRACTICALS": 4000
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "PRIMARY 1",
-      "total": 46250,
-      "paid": 46250,
-      "balance": 0,
-      "discount": 0.25,
-      "items": {
-       "TUITION": 18750,
-       "PTA&EXAM": 1500,
-       "PRACTICAL": 3000,
-       "AFTERSCHOOL": 5000,
-       "EXCURSION": 6000,
-       "OUTSTANDING": 12000
-      },
-      "reference": {
-       "FULL TUITION": 25000,
-       "PTA/EXAM": 2000,
-       "PRACTICALS": 4000
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "3rd Term",
-      "class": "PRIMARY 1",
-      "total": 38250,
-      "paid": 38250,
-      "balance": 0,
-      "discount": 0.25,
-      "items": {
-       "TUITION": 18750,
-       "PTA&EXAM": 1500,
-       "PRACTICAL": 3000,
-       "AFTERSCHOOL": 5000,
-       "GRADUATION/ SPORTS/PARTY": 10000
-      },
-      "reference": {
-       "FULL TUITION": 25000,
-       "PTA/EXAM": 2000,
-       "PRACTICALS": 4000
-      },
-      "deposits": {},
-      "extra": {
-       "LESSON FEE PRY": 5000,
-       "PARTY FEE REMIT": 10000
-      }
-     }
-    ]
-   }
-  ]
- },
- {
   "id": "adebayo-esther-ewaife",
   "lastName": "Adebayo",
   "firstName": "Esther Ewaife",
@@ -1765,161 +1470,6 @@
       },
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "adebayo-maxwell",
-  "lastName": "Adebayo",
-  "firstName": "Maxwell",
-  "status": "left",
-  "currentClass": "PLAYGROUP 2",
-  "firstSession": "2023-2024",
-  "lastSession": "2024-2025",
-  "sessionCount": 2,
-  "latestBalance": 0,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "PLAYGROUP 1",
-      "total": 58595,
-      "paid": 58595,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "AD-FORM": 1500,
-       "TUITION": 15000,
-       "PTA/EXAM": 1500,
-       "REPORT CARD": 1000,
-       "TEXTBOOKS": 10535,
-       "NB & STAT": 4560,
-       "UNIFORM": 10000,
-       "HOODY": 4000,
-       "SPORTSWEAR": 4000,
-       "EXCURSION": 4000,
-       "HOLIDAY LESSON": 2500
-      },
-      "reference": {
-       "ACTUAL TUITION": 20000
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "PLAYGROUP 1",
-      "total": 15500,
-      "paid": 16500,
-      "balance": -1000,
-      "discount": 0,
-      "items": {
-       "TUITION": 15000,
-       "PTA/EXAM": 1500,
-       "HOODY": -1000
-      },
-      "reference": {
-       "ACTUAL TUITION": 20000
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "3rd Term",
-      "class": "PLAYGROUP 1",
-      "total": 24750,
-      "paid": 24750,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "TUITION": 17250,
-       "PTA/EXAM": 1500,
-       "GRADUATION/ SPORTS/PARTY": 7000,
-       "OUTSTANDING": -1000
-      },
-      "reference": {
-       "ACTUAL TUITION": 23000
-      },
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   },
-   {
-    "session": "2024-2025",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "PLAYGROUP 2",
-      "total": 54425,
-      "paid": 47425,
-      "balance": 7000,
-      "discount": 0.25,
-      "items": {
-       "TUITION": 17250,
-       "PTA&EXAM": 1125,
-       "REPORT_CARD": 750,
-       "TEXTBOOKS": 13200,
-       "NB & STAT": 5300,
-       "UNIFORM": 7000,
-       "AFTERSCHOOL": 5000,
-       "HOLIDAY LESSON": 4800
-      },
-      "reference": {
-       "FULL TUITION": 23000,
-       "PTA/EXAM": 1500,
-       "REPORT CARD": 1000
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "PLAYGROUP 2",
-      "total": 36375,
-      "paid": 36375,
-      "balance": 0,
-      "discount": 0.25,
-      "items": {
-       "TUITION": 17250,
-       "PTA&EXAM": 1125,
-       "AFTERSCHOOL": 5000,
-       "EXCURSION": 6000,
-       "OUTSTANDING": 7000
-      },
-      "reference": {
-       "FULL TUITION": 23000,
-       "PTA/EXAM": 1500
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "3rd Term",
-      "class": "PLAYGROUP 2",
-      "total": 33375,
-      "paid": 33375,
-      "balance": 0,
-      "discount": 0.25,
-      "items": {
-       "TUITION": 17250,
-       "PTA&EXAM": 1125,
-       "AFTERSCHOOL": 5000,
-       "GRADUATION/ SPORTS/PARTY": 10000
-      },
-      "reference": {
-       "FULL TUITION": 23000,
-       "PTA/EXAM": 1500
-      },
-      "deposits": {},
-      "extra": {
-       "LESSON FEE PRY": 5000,
-       "PARTY FEE REMIT": 10000
-      }
      }
     ]
    }
@@ -2350,6 +1900,54 @@
     "session": "2023-2024",
     "terms": [
      {
+      "term": "1st Term",
+      "class": "JUNIOR SECONDARY SCHOOL 1",
+      "total": 88020,
+      "paid": 88020,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "AD-FORM": 2500,
+       "TUITION": 24500,
+       "PTA/EXAM": 2500,
+       "REPORT CARD": 1500,
+       "PRACTICALS": 4500,
+       "TEXTBOOKS": 12420,
+       "NB & STAT": 14100,
+       "UNIFORM": 6000,
+       "HOODY": 5000,
+       "SPORTSWEAR": 5000,
+       "AFTERSCHOOL": 6000,
+       "EXCURSION": 4000
+      },
+      "reference": {
+       "ACTUAL TUITION": 24500
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "JUNIOR SECONDARY SCHOOL 1",
+      "total": 38000,
+      "paid": 38000,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "TUITION": 24500,
+       "PTA/EXAM": 2500,
+       "REPORT CARD": 1500,
+       "PRACTICALS": 4500,
+       "HOODY": -1000,
+       "AFTERSCHOOL": 6000
+      },
+      "reference": {
+       "ACTUAL TUITION": 24500
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
       "term": "3rd Term",
       "class": "JUNIOR SECONDARY SCHOOL 1",
       "total": 51500,
@@ -2574,85 +2172,126 @@
   ]
  },
  {
-  "id": "adeboye-esther-eniola",
-  "lastName": "Adeboye",
-  "firstName": "Esther Eniola",
-  "status": "left",
-  "currentClass": "JUNIOR SECONDARY SCHOOL 1",
-  "firstSession": "2023-2024",
-  "lastSession": "2023-2024",
-  "sessionCount": 1,
-  "latestBalance": 0,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "JUNIOR SECONDARY SCHOOL 1",
-      "total": 88020,
-      "paid": 88020,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "AD-FORM": 2500,
-       "TUITION": 24500,
-       "PTA/EXAM": 2500,
-       "REPORT CARD": 1500,
-       "PRACTICALS": 4500,
-       "TEXTBOOKS": 12420,
-       "NB & STAT": 14100,
-       "UNIFORM": 6000,
-       "HOODY": 5000,
-       "SPORTSWEAR": 5000,
-       "AFTERSCHOOL": 6000,
-       "EXCURSION": 4000
-      },
-      "reference": {
-       "ACTUAL TUITION": 24500
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "JUNIOR SECONDARY SCHOOL 1",
-      "total": 38000,
-      "paid": 38000,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "TUITION": 24500,
-       "PTA/EXAM": 2500,
-       "REPORT CARD": 1500,
-       "PRACTICALS": 4500,
-       "HOODY": -1000,
-       "AFTERSCHOOL": 6000
-      },
-      "reference": {
-       "ACTUAL TUITION": 24500
-      },
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
   "id": "adebunmi-adeoluwa",
   "lastName": "Adebunmi",
   "firstName": "Adeoluwa",
   "status": "active",
   "currentClass": "PRIMARY 3",
-  "firstSession": "2022-2023",
+  "firstSession": "2021-2022",
   "lastSession": "2026-2027",
-  "sessionCount": 5,
+  "sessionCount": 6,
   "latestBalance": 60230,
   "sessions": [
    {
+    "session": "2021-2022",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "PLAYGROUP 2",
+      "total": 9000,
+      "paid": 0,
+      "balance": 9000,
+      "discount": 0,
+      "items": {
+       "TUITION": 9000
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "PLAYGROUP 2",
+      "total": 24900,
+      "paid": 24900,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "TUITION": 9000,
+       "BOOKS": 8400,
+       "INTER-HOUSE SPORT": 7000,
+       "PHONICS": 500
+      },
+      "reference": {},
+      "deposits": {
+       "FIRST DEPOSIT": 17400,
+       "SECOND DEPOSIT": 7500
+      },
+      "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "PLAYGROUP 2",
+      "total": 17000,
+      "paid": 17000,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "TUITION": 9250,
+       "PTA/EXAM": 750,
+       "YEAR BOOK": 2000,
+       "END OF YEAR PARTY": 5000,
+       "PAY 1": 10000,
+       "PAY 2": 7000
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     }
+    ]
+   },
+   {
     "session": "2022-2023",
     "terms": [
+     {
+      "term": "1st Term",
+      "class": "04 NUR1",
+      "total": 37830,
+      "paid": 36830,
+      "balance": 1000,
+      "discount": 0,
+      "items": {
+       "S/N": 13,
+       "SCHOOL FEE": 9250,
+       "PTA/EXAM": 750,
+       "REPORT CARD": 1000,
+       "TEXTBOOKS & STATIONARIES": 16350,
+       "NOTEBOOKS": 1980,
+       "MAINTENANCE": 1500,
+       "SCHOOL UNIFORM": 5000,
+       "PREVOCATIONAL": 500,
+       "PHONICS": 500,
+       "XXX": 1000,
+       "PAY 1": 36830
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "04 NUR1",
+      "total": 12500,
+      "paid": 12500,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "S/N": 16,
+       "TUITION FEE": 9250,
+       "PTA/EXAM": 750,
+       "MAINTENANCE": 1500,
+       "PREVOCATIONAL PRACTICAL": 500,
+       "PHONICS": 500,
+       "OUTSTANDING": -2000,
+       "GRAND TOTAL FEE": 10500,
+       "50% FEE": 5250,
+       "1ST 50% PAY": 10500,
+       "GRAND TOTAL PAID": 10500
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     },
      {
       "term": "3rd Term",
       "class": "04 NUR1",
@@ -2927,11 +2566,32 @@
   "firstName": "Adeyemi",
   "status": "active",
   "currentClass": "NURSERY 2",
-  "firstSession": "2023-2024",
+  "firstSession": "2022-2023",
   "lastSession": "2026-2027",
-  "sessionCount": 4,
+  "sessionCount": 5,
   "latestBalance": 52600,
   "sessions": [
+   {
+    "session": "2022-2023",
+    "terms": [
+     {
+      "term": "3rd Term",
+      "class": "01 CRECHE",
+      "total": 15500,
+      "paid": 15500,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "TUITION FEE": 10000,
+       "PTA/EXAM": 500,
+       "END OF YEAR PARTY": 5000
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     }
+    ]
+   },
    {
     "session": "2023-2024",
     "terms": [
@@ -3167,40 +2827,6 @@
   ]
  },
  {
-  "id": "adebunmi-daniel",
-  "lastName": "Adebunmi",
-  "firstName": "Daniel",
-  "status": "left",
-  "currentClass": "01 CRECHE",
-  "firstSession": "2022-2023",
-  "lastSession": "2022-2023",
-  "sessionCount": 1,
-  "latestBalance": 0,
-  "sessions": [
-   {
-    "session": "2022-2023",
-    "terms": [
-     {
-      "term": "3rd Term",
-      "class": "01 CRECHE",
-      "total": 15500,
-      "paid": 15500,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "TUITION FEE": 10000,
-       "PTA/EXAM": 500,
-       "END OF YEAR PARTY": 5000
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
   "id": "adedamola-iremide",
   "lastName": "Adedamola",
   "firstName": "Iremide",
@@ -3341,11 +2967,11 @@
   "lastName": "Adedayo",
   "firstName": "Adesire",
   "status": "left",
-  "currentClass": "PRIMARY 1",
+  "currentClass": "04 NUR1",
   "firstSession": "2021-2022",
-  "lastSession": "2024-2025",
-  "sessionCount": 4,
-  "latestBalance": 0,
+  "lastSession": "2022-2023",
+  "sessionCount": 2,
+  "latestBalance": -5000,
   "sessions": [
    {
     "session": "2021-2022",
@@ -3474,7 +3100,20 @@
       "extra": {}
      }
     ]
-   },
+   }
+  ]
+ },
+ {
+  "id": "adedayo-deborah-adesire",
+  "lastName": "Adedayo",
+  "firstName": "Deborah Adesire",
+  "status": "active",
+  "currentClass": "PRIMARY 3",
+  "firstSession": "2023-2024",
+  "lastSession": "2026-2027",
+  "sessionCount": 4,
+  "latestBalance": 69010,
+  "sessions": [
    {
     "session": "2023-2024",
     "terms": [
@@ -3569,25 +3208,7 @@
       },
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "adedayo-deborah-adesire",
-  "lastName": "Adedayo",
-  "firstName": "Deborah Adesire",
-  "status": "active",
-  "currentClass": "PRIMARY 3",
-  "firstSession": "2024-2025",
-  "lastSession": "2026-2027",
-  "sessionCount": 3,
-  "latestBalance": 69010,
-  "sessions": [
-   {
-    "session": "2024-2025",
-    "terms": [
+     },
      {
       "term": "2nd Term",
       "class": "PRIMARY 1",
@@ -5622,11 +5243,84 @@
   "firstName": "Elpaal Oyiza",
   "status": "left",
   "currentClass": "PRIMARY 2",
-  "firstSession": "2024-2025",
+  "firstSession": "2023-2024",
   "lastSession": "2024-2025",
-  "sessionCount": 1,
+  "sessionCount": 2,
   "latestBalance": 0,
   "sessions": [
+   {
+    "session": "2023-2024",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "PRIMARY 1",
+      "total": 78260,
+      "paid": 78260,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "AD-FORM": 1500,
+       "TUITION": 16500,
+       "PTA/EXAM": 2000,
+       "REPORT CARD": 2500,
+       "PRACTICALS": 3500,
+       "TEXTBOOKS": 17600,
+       "NB & STAT": 7660,
+       "UNIFORM": 10000,
+       "HOODY": 4000,
+       "SPORTSWEAR": 4000,
+       "AFTERSCHOOL": 5000,
+       "EXCURSION": 4000
+      },
+      "reference": {
+       "ACTUAL TUITION": 22000
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "PRIMARY 1",
+      "total": 27200,
+      "paid": 27200,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "TUITION": 16500,
+       "PTA/EXAM": 2000,
+       "PRACTICALS": 3500,
+       "HOODY": -1000,
+       "AFTERSCHOOL": 5000,
+       "GRADUATION/ SPORTS/PARTY": 1200
+      },
+      "reference": {
+       "ACTUAL TUITION": 22000
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "PRIMARY 1",
+      "total": 36750,
+      "paid": 36750,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "TUITION": 18750,
+       "PTA/EXAM": 2000,
+       "PRACTICALS": 4000,
+       "AFTERSCHOOL": 5000,
+       "GRADUATION/ SPORTS/PARTY": 7000
+      },
+      "reference": {
+       "ACTUAL TUITION": 25000
+      },
+      "deposits": {},
+      "extra": {}
+     }
+    ]
+   },
    {
     "session": "2024-2025",
     "terms": [
@@ -5701,92 +5395,6 @@
        "LESSON FEE PRY": 5000,
        "PARTY FEE REMIT": 10000
       }
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "adeiza-elpal-oyiza",
-  "lastName": "Adeiza",
-  "firstName": "Elpal Oyiza",
-  "status": "left",
-  "currentClass": "PRIMARY 1",
-  "firstSession": "2023-2024",
-  "lastSession": "2023-2024",
-  "sessionCount": 1,
-  "latestBalance": 0,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "PRIMARY 1",
-      "total": 78260,
-      "paid": 78260,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "AD-FORM": 1500,
-       "TUITION": 16500,
-       "PTA/EXAM": 2000,
-       "REPORT CARD": 2500,
-       "PRACTICALS": 3500,
-       "TEXTBOOKS": 17600,
-       "NB & STAT": 7660,
-       "UNIFORM": 10000,
-       "HOODY": 4000,
-       "SPORTSWEAR": 4000,
-       "AFTERSCHOOL": 5000,
-       "EXCURSION": 4000
-      },
-      "reference": {
-       "ACTUAL TUITION": 22000
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "PRIMARY 1",
-      "total": 27200,
-      "paid": 27200,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "TUITION": 16500,
-       "PTA/EXAM": 2000,
-       "PRACTICALS": 3500,
-       "HOODY": -1000,
-       "AFTERSCHOOL": 5000,
-       "GRADUATION/ SPORTS/PARTY": 1200
-      },
-      "reference": {
-       "ACTUAL TUITION": 22000
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "3rd Term",
-      "class": "PRIMARY 1",
-      "total": 36750,
-      "paid": 36750,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "TUITION": 18750,
-       "PTA/EXAM": 2000,
-       "PRACTICALS": 4000,
-       "AFTERSCHOOL": 5000,
-       "GRADUATION/ SPORTS/PARTY": 7000
-      },
-      "reference": {
-       "ACTUAL TUITION": 25000
-      },
-      "deposits": {},
-      "extra": {}
      }
     ]
    }
@@ -6251,15 +5859,15 @@
   ]
  },
  {
-  "id": "adeleke-abdulmuiz",
+  "id": "adeleke-abdulmuiz-kayode",
   "lastName": "Adeleke",
-  "firstName": "Abdulmuiz",
+  "firstName": "Abdulmuiz Kayode",
   "status": "left",
   "currentClass": "SENIOR SECONDARY SCHOOL 2",
   "firstSession": "2022-2023",
   "lastSession": "2023-2024",
   "sessionCount": 2,
-  "latestBalance": 15350,
+  "latestBalance": 3350,
   "sessions": [
    {
     "session": "2022-2023",
@@ -6356,25 +5964,7 @@
       },
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "adeleke-abdulmuiz-kayode",
-  "lastName": "Adeleke",
-  "firstName": "Abdulmuiz Kayode",
-  "status": "left",
-  "currentClass": "SENIOR SECONDARY SCHOOL 3",
-  "firstSession": "2023-2024",
-  "lastSession": "2024-2025",
-  "sessionCount": 2,
-  "latestBalance": 30150,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
+     },
      {
       "term": "3rd Term",
       "class": "SENIOR SECONDARY SCHOOL 2",
@@ -6397,7 +5987,20 @@
       "extra": {}
      }
     ]
-   },
+   }
+  ]
+ },
+ {
+  "id": "adeleke-abdulmuiz-kayode-kayode-kayode",
+  "lastName": "Adeleke",
+  "firstName": "Abdulmuiz Kayode Kayode Kayode",
+  "status": "left",
+  "currentClass": "SENIOR SECONDARY SCHOOL 3",
+  "firstSession": "2024-2025",
+  "lastSession": "2024-2025",
+  "sessionCount": 1,
+  "latestBalance": 30150,
+  "sessions": [
    {
     "session": "2024-2025",
     "terms": [
@@ -8499,131 +8102,6 @@
   ]
  },
  {
-  "id": "adeoluwa-adebunmi",
-  "lastName": "Adeoluwa",
-  "firstName": "Adebunmi",
-  "status": "left",
-  "currentClass": "04 NUR1",
-  "firstSession": "2021-2022",
-  "lastSession": "2022-2023",
-  "sessionCount": 2,
-  "latestBalance": 0,
-  "sessions": [
-   {
-    "session": "2021-2022",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "PLAYGROUP 2",
-      "total": 9000,
-      "paid": 0,
-      "balance": 9000,
-      "discount": 0,
-      "items": {
-       "TUITION": 9000
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "PLAYGROUP 2",
-      "total": 24900,
-      "paid": 24900,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "TUITION": 9000,
-       "BOOKS": 8400,
-       "INTER-HOUSE SPORT": 7000,
-       "PHONICS": 500
-      },
-      "reference": {},
-      "deposits": {
-       "FIRST DEPOSIT": 17400,
-       "SECOND DEPOSIT": 7500
-      },
-      "extra": {}
-     },
-     {
-      "term": "3rd Term",
-      "class": "PLAYGROUP 2",
-      "total": 17000,
-      "paid": 17000,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "TUITION": 9250,
-       "PTA/EXAM": 750,
-       "YEAR BOOK": 2000,
-       "END OF YEAR PARTY": 5000,
-       "PAY 1": 10000,
-       "PAY 2": 7000
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   },
-   {
-    "session": "2022-2023",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "04 NUR1",
-      "total": 37830,
-      "paid": 36830,
-      "balance": 1000,
-      "discount": 0,
-      "items": {
-       "S/N": 13,
-       "SCHOOL FEE": 9250,
-       "PTA/EXAM": 750,
-       "REPORT CARD": 1000,
-       "TEXTBOOKS & STATIONARIES": 16350,
-       "NOTEBOOKS": 1980,
-       "MAINTENANCE": 1500,
-       "SCHOOL UNIFORM": 5000,
-       "PREVOCATIONAL": 500,
-       "PHONICS": 500,
-       "XXX": 1000,
-       "PAY 1": 36830
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "04 NUR1",
-      "total": 12500,
-      "paid": 12500,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "S/N": 16,
-       "TUITION FEE": 9250,
-       "PTA/EXAM": 750,
-       "MAINTENANCE": 1500,
-       "PREVOCATIONAL PRACTICAL": 500,
-       "PHONICS": 500,
-       "OUTSTANDING": -2000,
-       "GRAND TOTAL FEE": 10500,
-       "50% FEE": 5250,
-       "1ST 50% PAY": 10500,
-       "GRAND TOTAL PAID": 10500
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
   "id": "adewole-testimony",
   "lastName": "Adewole",
   "firstName": "Testimony",
@@ -9287,9 +8765,9 @@
   ]
  },
  {
-  "id": "adunoye-mariam",
+  "id": "adunoye-mariam-omoshalewa",
   "lastName": "Adunoye",
-  "firstName": "Mariam",
+  "firstName": "Mariam Omoshalewa",
   "status": "left",
   "currentClass": "09 PRY4",
   "firstSession": "2021-2022",
@@ -9692,120 +9170,9 @@
   "firstName": "Boluwatife Qudus",
   "status": "left",
   "currentClass": "SENIOR SECONDARY SCHOOL 3",
-  "firstSession": "2023-2024",
-  "lastSession": "2024-2025",
-  "sessionCount": 2,
-  "latestBalance": 0,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
-     {
-      "term": "3rd Term",
-      "class": "SENIOR SECONDARY SCHOOL 2",
-      "total": 59000,
-      "paid": 59000,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "TUITION": 37000,
-       "PTA/EXAM": 2500,
-       "REPORT CARD": 1500,
-       "PRACTICALS": 5000,
-       "AFTERSCHOOL": 6000,
-       "GRADUATION/ SPORTS/PARTY": 7000
-      },
-      "reference": {
-       "ACTUAL TUITION": 37000
-      },
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   },
-   {
-    "session": "2024-2025",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "SENIOR SECONDARY SCHOOL 3",
-      "total": 117800,
-      "paid": 117000,
-      "balance": 800,
-      "discount": 0,
-      "items": {
-       "TUITION": 37000,
-       "PTA&EXAM": 2500,
-       "REPORT_CARD": 1500,
-       "PRACTICAL": 7000,
-       "TEXTBOOKS": 10800,
-       "NB & STAT": 13000,
-       "AFTERSCHOOL": 6000,
-       "EXTERNAL EXAMINATION": 40000
-      },
-      "reference": {
-       "FULL TUITION": 37000,
-       "PTA/EXAM": 2500,
-       "REPORT CARD": 1500,
-       "PRACTICALS": 7000
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "SENIOR SECONDARY SCHOOL 3",
-      "total": 60800,
-      "paid": 60800,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "TUITION": 37000,
-       "PTA&EXAM": 2500,
-       "REPORT_CARD": 1500,
-       "PRACTICAL": 7000,
-       "AFTERSCHOOL": 6000,
-       "EXCURSION": 6000,
-       "OUTSTANDING": 800
-      },
-      "reference": {
-       "FULL TUITION": 37000,
-       "PTA/EXAM": 2500,
-       "REPORT CARD": 1500,
-       "PRACTICALS": 7000
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "3rd Term",
-      "class": "SENIOR SECONDARY SCHOOL 3",
-      "total": 12000,
-      "paid": 12000,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "GRADUATION/ SPORTS/PARTY": 12000
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {
-       "PARTY FEE REMIT": 12000
-      }
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "ajao-qudus",
-  "lastName": "Ajao",
-  "firstName": "Qudus",
-  "status": "left",
-  "currentClass": "SENIOR SECONDARY SCHOOL 2",
   "firstSession": "2021-2022",
-  "lastSession": "2023-2024",
-  "sessionCount": 3,
+  "lastSession": "2024-2025",
+  "sessionCount": 4,
   "latestBalance": 0,
   "sessions": [
    {
@@ -10001,6 +9368,99 @@
       },
       "deposits": {},
       "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "SENIOR SECONDARY SCHOOL 2",
+      "total": 59000,
+      "paid": 59000,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "TUITION": 37000,
+       "PTA/EXAM": 2500,
+       "REPORT CARD": 1500,
+       "PRACTICALS": 5000,
+       "AFTERSCHOOL": 6000,
+       "GRADUATION/ SPORTS/PARTY": 7000
+      },
+      "reference": {
+       "ACTUAL TUITION": 37000
+      },
+      "deposits": {},
+      "extra": {}
+     }
+    ]
+   },
+   {
+    "session": "2024-2025",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "SENIOR SECONDARY SCHOOL 3",
+      "total": 117800,
+      "paid": 117000,
+      "balance": 800,
+      "discount": 0,
+      "items": {
+       "TUITION": 37000,
+       "PTA&EXAM": 2500,
+       "REPORT_CARD": 1500,
+       "PRACTICAL": 7000,
+       "TEXTBOOKS": 10800,
+       "NB & STAT": 13000,
+       "AFTERSCHOOL": 6000,
+       "EXTERNAL EXAMINATION": 40000
+      },
+      "reference": {
+       "FULL TUITION": 37000,
+       "PTA/EXAM": 2500,
+       "REPORT CARD": 1500,
+       "PRACTICALS": 7000
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "SENIOR SECONDARY SCHOOL 3",
+      "total": 60800,
+      "paid": 60800,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "TUITION": 37000,
+       "PTA&EXAM": 2500,
+       "REPORT_CARD": 1500,
+       "PRACTICAL": 7000,
+       "AFTERSCHOOL": 6000,
+       "EXCURSION": 6000,
+       "OUTSTANDING": 800
+      },
+      "reference": {
+       "FULL TUITION": 37000,
+       "PTA/EXAM": 2500,
+       "REPORT CARD": 1500,
+       "PRACTICALS": 7000
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "SENIOR SECONDARY SCHOOL 3",
+      "total": 12000,
+      "paid": 12000,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "GRADUATION/ SPORTS/PARTY": 12000
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {
+       "PARTY FEE REMIT": 12000
+      }
      }
     ]
    }
@@ -11948,15 +11408,15 @@
   ]
  },
  {
-  "id": "aliu-abdulahi",
+  "id": "aliu-abdullahi-anjolaoluwa",
   "lastName": "Aliu",
-  "firstName": "Abdulahi",
+  "firstName": "Abdullahi Anjolaoluwa",
   "status": "left",
-  "currentClass": "JUNIOR SECONDARY SCHOOL 2",
+  "currentClass": "JUNIOR SECONDARY SCHOOL 3",
   "firstSession": "2022-2023",
-  "lastSession": "2023-2024",
-  "sessionCount": 2,
-  "latestBalance": 1500,
+  "lastSession": "2024-2025",
+  "sessionCount": 3,
+  "latestBalance": 26000,
   "sessions": [
    {
     "session": "2022-2023",
@@ -12045,25 +11505,7 @@
       "reference": {},
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "aliu-abdullahi-anjolaoluwa",
-  "lastName": "Aliu",
-  "firstName": "Abdullahi Anjolaoluwa",
-  "status": "left",
-  "currentClass": "JUNIOR SECONDARY SCHOOL 3",
-  "firstSession": "2023-2024",
-  "lastSession": "2024-2025",
-  "sessionCount": 2,
-  "latestBalance": 26000,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
+     },
      {
       "term": "3rd Term",
       "class": "JUNIOR SECONDARY SCHOOL 2",
@@ -12535,15 +11977,15 @@
   ]
  },
  {
-  "id": "ayedun-precious",
+  "id": "ayedun-precious-ogomide",
   "lastName": "Ayedun",
-  "firstName": "Precious",
+  "firstName": "Precious Ogomide",
   "status": "left",
-  "currentClass": "SENIOR SECONDARY SCHOOL 1",
+  "currentClass": "SENIOR SECONDARY SCHOOL 3",
   "firstSession": "2021-2022",
-  "lastSession": "2023-2024",
-  "sessionCount": 3,
-  "latestBalance": 35350,
+  "lastSession": "2025-2026",
+  "sessionCount": 5,
+  "latestBalance": 0,
   "sessions": [
    {
     "session": "2021-2022",
@@ -12736,25 +12178,7 @@
       },
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "ayedun-precious-ogomide",
-  "lastName": "Ayedun",
-  "firstName": "Precious Ogomide",
-  "status": "left",
-  "currentClass": "SENIOR SECONDARY SCHOOL 3",
-  "firstSession": "2023-2024",
-  "lastSession": "2025-2026",
-  "sessionCount": 3,
-  "latestBalance": 0,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
+     },
      {
       "term": "3rd Term",
       "class": "SENIOR SECONDARY SCHOOL 1",
@@ -13071,15 +12495,15 @@
   ]
  },
  {
-  "id": "ayodele-sandra",
+  "id": "ayodele-sandra-oluwatobiloba",
   "lastName": "Ayodele",
-  "firstName": "Sandra",
-  "status": "left",
-  "currentClass": "JUNIOR SECONDARY SCHOOL 2",
+  "firstName": "Sandra Oluwatobiloba",
+  "status": "active",
+  "currentClass": "SENIOR SECONDARY SCHOOL 2",
   "firstSession": "2021-2022",
-  "lastSession": "2023-2024",
-  "sessionCount": 3,
-  "latestBalance": 6060,
+  "lastSession": "2026-2027",
+  "sessionCount": 6,
+  "latestBalance": 83730,
   "sessions": [
    {
     "session": "2021-2022",
@@ -13283,25 +12707,7 @@
       },
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "ayodele-sandra-oluwatobiloba",
-  "lastName": "Ayodele",
-  "firstName": "Sandra Oluwatobiloba",
-  "status": "active",
-  "currentClass": "SENIOR SECONDARY SCHOOL 2",
-  "firstSession": "2023-2024",
-  "lastSession": "2026-2027",
-  "sessionCount": 4,
-  "latestBalance": 83730,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
+     },
      {
       "term": "3rd Term",
       "class": "JUNIOR SECONDARY SCHOOL 2",
@@ -13517,51 +12923,6 @@
        "REPORT CARD": 2000,
        "PRACTICALS": 8000
       },
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "ayodele-ishola-blessing",
-  "lastName": "Ayodele Ishola",
-  "firstName": "Blessing",
-  "status": "left",
-  "currentClass": "15 SSS2",
-  "firstSession": "2022-2023",
-  "lastSession": "2022-2023",
-  "sessionCount": 1,
-  "latestBalance": 10600,
-  "sessions": [
-   {
-    "session": "2022-2023",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "15 SSS2",
-      "total": 65600,
-      "paid": 55000,
-      "balance": 10600,
-      "discount": 0,
-      "items": {
-       "S/N": 55,
-       "SCHOOL FEE": 29500,
-       "PTA/EXAM": 2500,
-       "REPORT CARD": 1500,
-       "TEXTBOOKS & STATIONARIES": 5600,
-       "NOTEBOOKS": 9000,
-       "MAINTENANCE": 2500,
-       "COMPUTER": 2000,
-       "AFTER SCHOOL CLUB": 5000,
-       "PREVOCATIONAL": 3000,
-       "XXX": 5000,
-       "PAY 1": 20000,
-       "PAY 2": 20000,
-       "PAY 3": 15000
-      },
-      "reference": {},
       "deposits": {},
       "extra": {}
      }
@@ -14105,14 +13466,14 @@
   ]
  },
  {
-  "id": "daniel-deborah",
+  "id": "daniel-deborah-iyanuoluwa",
   "lastName": "Daniel",
-  "firstName": "Deborah",
+  "firstName": "Deborah Iyanuoluwa",
   "status": "left",
-  "currentClass": "SENIOR SECONDARY SCHOOL 1",
+  "currentClass": "SENIOR SECONDARY SCHOOL 3",
   "firstSession": "2021-2022",
-  "lastSession": "2023-2024",
-  "sessionCount": 3,
+  "lastSession": "2025-2026",
+  "sessionCount": 5,
   "latestBalance": 0,
   "sessions": [
    {
@@ -14312,25 +13673,7 @@
       },
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "daniel-deborah-iyanuoluwa",
-  "lastName": "Daniel",
-  "firstName": "Deborah Iyanuoluwa",
-  "status": "left",
-  "currentClass": "SENIOR SECONDARY SCHOOL 3",
-  "firstSession": "2023-2024",
-  "lastSession": "2025-2026",
-  "sessionCount": 3,
-  "latestBalance": 0,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
+     },
      {
       "term": "3rd Term",
       "class": "SENIOR SECONDARY SCHOOL 1",
@@ -18356,11 +17699,11 @@
   "lastName": "Ishola",
   "firstName": "Blessing",
   "status": "left",
-  "currentClass": "SENIOR SECONDARY SCHOOL 1",
+  "currentClass": "15 SSS2",
   "firstSession": "2021-2022",
-  "lastSession": "2021-2022",
-  "sessionCount": 1,
-  "latestBalance": 0,
+  "lastSession": "2022-2023",
+  "sessionCount": 2,
+  "latestBalance": 10600,
   "sessions": [
    {
     "session": "2021-2022",
@@ -18421,6 +17764,38 @@
        "PAY 1": 20000,
        "PAY 2": 15000,
        "PAY 3": 10000
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     }
+    ]
+   },
+   {
+    "session": "2022-2023",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "15 SSS2",
+      "total": 65600,
+      "paid": 55000,
+      "balance": 10600,
+      "discount": 0,
+      "items": {
+       "S/N": 55,
+       "SCHOOL FEE": 29500,
+       "PTA/EXAM": 2500,
+       "REPORT CARD": 1500,
+       "TEXTBOOKS & STATIONARIES": 5600,
+       "NOTEBOOKS": 9000,
+       "MAINTENANCE": 2500,
+       "COMPUTER": 2000,
+       "AFTER SCHOOL CLUB": 5000,
+       "PREVOCATIONAL": 3000,
+       "XXX": 5000,
+       "PAY 1": 20000,
+       "PAY 2": 20000,
+       "PAY 3": 15000
       },
       "reference": {},
       "deposits": {},
@@ -18656,14 +18031,69 @@
   "firstName": "Jedidah",
   "status": "active",
   "currentClass": "PRIMARY 4",
-  "firstSession": "2025-2026",
+  "firstSession": "2024-2025",
   "lastSession": "2026-2027",
-  "sessionCount": 2,
+  "sessionCount": 3,
   "latestBalance": 68840,
   "sessions": [
    {
+    "session": "2024-2025",
+    "terms": [
+     {
+      "term": "3rd Term",
+      "class": "PRIMARY 2",
+      "total": 43250,
+      "paid": 43250,
+      "balance": 0,
+      "discount": 0.5,
+      "items": {
+       "AD_FORM": 750,
+       "TUITION": 12500,
+       "PTA&EXAM": 1000,
+       "REPORT_CARD": 1000,
+       "PRACTICAL": 2000,
+       "UNIFORM": 16000,
+       "GRADUATION/ SPORTS/PARTY": 10000
+      },
+      "reference": {
+       "AD-FORM": 1500,
+       "FULL TUITION": 25000,
+       "PTA/EXAM": 2000,
+       "REPORT CARD": 2000,
+       "PRACTICALS": 4000
+      },
+      "deposits": {},
+      "extra": {
+       "PARTY FEE REMIT": 10000
+      }
+     }
+    ]
+   },
+   {
     "session": "2025-2026",
     "terms": [
+     {
+      "term": "1st Term",
+      "class": "PRIMARY 3",
+      "total": 58560,
+      "paid": 45480,
+      "balance": 13080,
+      "discount": 0.5,
+      "items": {
+       "TUITION": 14000,
+       "PTA&EXAM": 4000,
+       "PRACTICAL": 2500,
+       "TEXTBOOKS": 26040,
+       "NB & STAT": 12020
+      },
+      "reference": {
+       "FULL TUITION": 28000,
+       "PTA/EXAM": 4000,
+       "PRACTICALS": 5000
+      },
+      "deposits": {},
+      "extra": {}
+     },
      {
       "term": "2nd Term",
       "class": "PRIMARY 3",
@@ -18730,79 +18160,6 @@
        "TEXTBOOKS": 27030,
        "NB & STAT": 13230,
        "OUTSTANDING": 8080
-      },
-      "reference": {
-       "FULL TUITION": 28000,
-       "PTA/EXAM": 4000,
-       "PRACTICALS": 5000
-      },
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "john-jedidiah",
-  "lastName": "John",
-  "firstName": "Jedidiah",
-  "status": "left",
-  "currentClass": "PRIMARY 3",
-  "firstSession": "2024-2025",
-  "lastSession": "2025-2026",
-  "sessionCount": 2,
-  "latestBalance": 13080,
-  "sessions": [
-   {
-    "session": "2024-2025",
-    "terms": [
-     {
-      "term": "3rd Term",
-      "class": "PRIMARY 2",
-      "total": 43250,
-      "paid": 43250,
-      "balance": 0,
-      "discount": 0.5,
-      "items": {
-       "AD_FORM": 750,
-       "TUITION": 12500,
-       "PTA&EXAM": 1000,
-       "REPORT_CARD": 1000,
-       "PRACTICAL": 2000,
-       "UNIFORM": 16000,
-       "GRADUATION/ SPORTS/PARTY": 10000
-      },
-      "reference": {
-       "AD-FORM": 1500,
-       "FULL TUITION": 25000,
-       "PTA/EXAM": 2000,
-       "REPORT CARD": 2000,
-       "PRACTICALS": 4000
-      },
-      "deposits": {},
-      "extra": {
-       "PARTY FEE REMIT": 10000
-      }
-     }
-    ]
-   },
-   {
-    "session": "2025-2026",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "PRIMARY 3",
-      "total": 58560,
-      "paid": 45480,
-      "balance": 13080,
-      "discount": 0.5,
-      "items": {
-       "TUITION": 14000,
-       "PTA&EXAM": 4000,
-       "PRACTICAL": 2500,
-       "TEXTBOOKS": 26040,
-       "NB & STAT": 12020
       },
       "reference": {
        "FULL TUITION": 28000,
@@ -19249,15 +18606,15 @@
   ]
  },
  {
-  "id": "kolade-ayomide-jemimah",
+  "id": "kolade-jemimah-ayomide",
   "lastName": "Kolade",
-  "firstName": "Ayomide Jemimah",
-  "status": "left",
-  "currentClass": "NURSERY 1",
+  "firstName": "Jemimah Ayomide",
+  "status": "active",
+  "currentClass": "NURSERY 2",
   "firstSession": "2024-2025",
-  "lastSession": "2025-2026",
-  "sessionCount": 2,
-  "latestBalance": 0,
+  "lastSession": "2026-2027",
+  "sessionCount": 3,
+  "latestBalance": 65100,
   "sessions": [
    {
     "session": "2024-2025",
@@ -19361,25 +18718,7 @@
       "extra": {
        "LESSON FEE PRY": 6000
       }
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "kolade-jemimah-ayomide",
-  "lastName": "Kolade",
-  "firstName": "Jemimah Ayomide",
-  "status": "active",
-  "currentClass": "NURSERY 2",
-  "firstSession": "2025-2026",
-  "lastSession": "2026-2027",
-  "sessionCount": 2,
-  "latestBalance": 65100,
-  "sessions": [
-   {
-    "session": "2025-2026",
-    "terms": [
+     },
      {
       "term": "2nd Term",
       "class": "NURSERY 1",
@@ -20220,9 +19559,9 @@
   ]
  },
  {
-  "id": "ladoja-precious",
+  "id": "ladoja-precious-ogomide",
   "lastName": "Ladoja",
-  "firstName": "Precious",
+  "firstName": "Precious Ogomide",
   "status": "left",
   "currentClass": "PLAYGROUP 2",
   "firstSession": "2021-2022",
@@ -20721,48 +20060,10 @@
   "firstName": "Abdulazeez Ayomide",
   "status": "left",
   "currentClass": "SENIOR SECONDARY SCHOOL 2",
-  "firstSession": "2023-2024",
-  "lastSession": "2023-2024",
-  "sessionCount": 1,
-  "latestBalance": 5750,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
-     {
-      "term": "3rd Term",
-      "class": "SENIOR SECONDARY SCHOOL 2",
-      "total": 43750,
-      "paid": 38000,
-      "balance": 5750,
-      "discount": 0,
-      "items": {
-       "TUITION": 27750,
-       "PTA/EXAM": 2500,
-       "REPORT CARD": 1500,
-       "PRACTICALS": 5000,
-       "GRADUATION/ SPORTS/PARTY": 7000
-      },
-      "reference": {
-       "ACTUAL TUITION": 37000
-      },
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "mutairu-ayomide",
-  "lastName": "Mutairu",
-  "firstName": "Ayomide",
-  "status": "left",
-  "currentClass": "SENIOR SECONDARY SCHOOL 2",
   "firstSession": "2021-2022",
   "lastSession": "2023-2024",
   "sessionCount": 3,
-  "latestBalance": 0,
+  "latestBalance": 5750,
   "sessions": [
    {
     "session": "2021-2022",
@@ -20956,21 +20257,41 @@
       },
       "deposits": {},
       "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "SENIOR SECONDARY SCHOOL 2",
+      "total": 43750,
+      "paid": 38000,
+      "balance": 5750,
+      "discount": 0,
+      "items": {
+       "TUITION": 27750,
+       "PTA/EXAM": 2500,
+       "REPORT CARD": 1500,
+       "PRACTICALS": 5000,
+       "GRADUATION/ SPORTS/PARTY": 7000
+      },
+      "reference": {
+       "ACTUAL TUITION": 37000
+      },
+      "deposits": {},
+      "extra": {}
      }
     ]
    }
   ]
  },
  {
-  "id": "mutairu-ibrahim",
+  "id": "mutairu-ibrahim-gbolahan",
   "lastName": "Mutairu",
-  "firstName": "Ibrahim",
-  "status": "left",
-  "currentClass": "PRIMARY 4",
+  "firstName": "Ibrahim Gbolahan",
+  "status": "active",
+  "currentClass": "JUNIOR SECONDARY SCHOOL 2",
   "firstSession": "2021-2022",
-  "lastSession": "2023-2024",
-  "sessionCount": 3,
-  "latestBalance": 0,
+  "lastSession": "2026-2027",
+  "sessionCount": 6,
+  "latestBalance": 67590,
   "sessions": [
    {
     "session": "2021-2022",
@@ -21151,25 +20472,7 @@
       },
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "mutairu-ibrahim-gbolahan",
-  "lastName": "Mutairu",
-  "firstName": "Ibrahim Gbolahan",
-  "status": "active",
-  "currentClass": "JUNIOR SECONDARY SCHOOL 2",
-  "firstSession": "2023-2024",
-  "lastSession": "2026-2027",
-  "sessionCount": 4,
-  "latestBalance": 67590,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
+     },
      {
       "term": "3rd Term",
       "class": "PRIMARY 4",
@@ -21383,15 +20686,15 @@
   ]
  },
  {
-  "id": "mutairu-ismail",
+  "id": "mutairu-ismail-abiodun",
   "lastName": "Mutairu",
-  "firstName": "Ismail",
-  "status": "left",
-  "currentClass": "NURSERY 2",
+  "firstName": "Ismail Abiodun",
+  "status": "active",
+  "currentClass": "PRIMARY 3",
   "firstSession": "2021-2022",
-  "lastSession": "2023-2024",
-  "sessionCount": 3,
-  "latestBalance": -20,
+  "lastSession": "2026-2027",
+  "sessionCount": 6,
+  "latestBalance": 69460,
   "sessions": [
    {
     "session": "2021-2022",
@@ -21556,25 +20859,7 @@
       },
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "mutairu-ismail-abiodun",
-  "lastName": "Mutairu",
-  "firstName": "Ismail Abiodun",
-  "status": "active",
-  "currentClass": "PRIMARY 3",
-  "firstSession": "2023-2024",
-  "lastSession": "2026-2027",
-  "sessionCount": 4,
-  "latestBalance": 69460,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
+     },
      {
       "term": "3rd Term",
       "class": "NURSERY 2",
@@ -21779,15 +21064,15 @@
   ]
  },
  {
-  "id": "mutairu-mariam",
+  "id": "mutairu-mariam-omoshalewa",
   "lastName": "Mutairu",
-  "firstName": "Mariam",
-  "status": "left",
-  "currentClass": "JUNIOR SECONDARY SCHOOL 2",
+  "firstName": "Mariam Omoshalewa",
+  "status": "active",
+  "currentClass": "SENIOR SECONDARY SCHOOL 2",
   "firstSession": "2022-2023",
-  "lastSession": "2023-2024",
-  "sessionCount": 2,
-  "latestBalance": 0,
+  "lastSession": "2026-2027",
+  "sessionCount": 5,
+  "latestBalance": 33610,
   "sessions": [
    {
     "session": "2022-2023",
@@ -21870,25 +21155,7 @@
       "reference": {},
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "mutairu-mariam-omoshalewa",
-  "lastName": "Mutairu",
-  "firstName": "Mariam Omoshalewa",
-  "status": "active",
-  "currentClass": "SENIOR SECONDARY SCHOOL 2",
-  "firstSession": "2023-2024",
-  "lastSession": "2026-2027",
-  "sessionCount": 4,
-  "latestBalance": 33610,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
+     },
      {
       "term": "3rd Term",
       "class": "JUNIOR SECONDARY SCHOOL 2",
@@ -23129,15 +22396,15 @@
   ]
  },
  {
-  "id": "okerinde-jumai",
+  "id": "okerinde-jumain-boluwatife",
   "lastName": "Okerinde",
-  "firstName": "Jumai",
-  "status": "left",
-  "currentClass": "JUNIOR SECONDARY SCHOOL 3",
+  "firstName": "Jumain Boluwatife",
+  "status": "active",
+  "currentClass": "SENIOR SECONDARY SCHOOL 3",
   "firstSession": "2021-2022",
-  "lastSession": "2023-2024",
-  "sessionCount": 3,
-  "latestBalance": 7225,
+  "lastSession": "2026-2027",
+  "sessionCount": 6,
+  "latestBalance": 89440,
   "sessions": [
    {
     "session": "2021-2022",
@@ -23337,25 +22604,7 @@
       },
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "okerinde-jumain-boluwatife",
-  "lastName": "Okerinde",
-  "firstName": "Jumain Boluwatife",
-  "status": "active",
-  "currentClass": "SENIOR SECONDARY SCHOOL 3",
-  "firstSession": "2023-2024",
-  "lastSession": "2026-2027",
-  "sessionCount": 4,
-  "latestBalance": 89440,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
+     },
      {
       "term": "3rd Term",
       "class": "JUNIOR SECONDARY SCHOOL 3",
@@ -23572,15 +22821,15 @@
   ]
  },
  {
-  "id": "okerinde-qudus",
+  "id": "okerinde-qudus-olamilekan",
   "lastName": "Okerinde",
-  "firstName": "Qudus",
+  "firstName": "Qudus Olamilekan",
   "status": "left",
-  "currentClass": "SENIOR SECONDARY SCHOOL 1",
+  "currentClass": "SENIOR SECONDARY SCHOOL 3",
   "firstSession": "2021-2022",
-  "lastSession": "2023-2024",
-  "sessionCount": 3,
-  "latestBalance": 1900,
+  "lastSession": "2025-2026",
+  "sessionCount": 5,
+  "latestBalance": 0,
   "sessions": [
    {
     "session": "2021-2022",
@@ -23779,25 +23028,7 @@
       },
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "okerinde-qudus-olamilekan",
-  "lastName": "Okerinde",
-  "firstName": "Qudus Olamilekan",
-  "status": "left",
-  "currentClass": "SENIOR SECONDARY SCHOOL 3",
-  "firstSession": "2023-2024",
-  "lastSession": "2025-2026",
-  "sessionCount": 3,
-  "latestBalance": 0,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
+     },
      {
       "term": "3rd Term",
       "class": "SENIOR SECONDARY SCHOOL 1",
@@ -24913,14 +24144,14 @@
   ]
  },
  {
-  "id": "oladipupo-rodiat",
+  "id": "oladipupo-rodiat-eniola",
   "lastName": "Oladipupo",
-  "firstName": "Rodiat",
+  "firstName": "Rodiat Eniola",
   "status": "left",
-  "currentClass": "SENIOR SECONDARY SCHOOL 2",
+  "currentClass": "SENIOR SECONDARY SCHOOL 3",
   "firstSession": "2021-2022",
-  "lastSession": "2023-2024",
-  "sessionCount": 3,
+  "lastSession": "2024-2025",
+  "sessionCount": 4,
   "latestBalance": 0,
   "sessions": [
    {
@@ -25137,20 +24368,7 @@
       "extra": {}
      }
     ]
-   }
-  ]
- },
- {
-  "id": "oladipupo-rodiat-eniola",
-  "lastName": "Oladipupo",
-  "firstName": "Rodiat Eniola",
-  "status": "left",
-  "currentClass": "SENIOR SECONDARY SCHOOL 3",
-  "firstSession": "2024-2025",
-  "lastSession": "2024-2025",
-  "sessionCount": 1,
-  "latestBalance": 0,
-  "sessions": [
+   },
    {
     "session": "2024-2025",
     "terms": [
@@ -25281,9 +24499,9 @@
   ]
  },
  {
-  "id": "oladoja-precious",
+  "id": "oladoja-precious-ogomide",
   "lastName": "Oladoja",
-  "firstName": "Precious",
+  "firstName": "Precious Ogomide",
   "status": "left",
   "currentClass": "PLAYGROUP 2",
   "firstSession": "2021-2022",
@@ -27793,15 +27011,15 @@
   ]
  },
  {
-  "id": "olorundare-toluwanimi",
+  "id": "olorundare-toluwanimi-emmanuel",
   "lastName": "Olorundare",
-  "firstName": "Toluwanimi",
+  "firstName": "Toluwanimi Emmanuel",
   "status": "left",
-  "currentClass": "PRIMARY 4",
+  "currentClass": "JUNIOR SECONDARY SCHOOL 1",
   "firstSession": "2023-2024",
-  "lastSession": "2024-2025",
-  "sessionCount": 2,
-  "latestBalance": 0,
+  "lastSession": "2025-2026",
+  "sessionCount": 3,
+  "latestBalance": -50,
   "sessions": [
    {
     "session": "2023-2024",
@@ -27952,20 +27170,7 @@
       }
      }
     ]
-   }
-  ]
- },
- {
-  "id": "olorundare-toluwanimi-emmanuel",
-  "lastName": "Olorundare",
-  "firstName": "Toluwanimi Emmanuel",
-  "status": "left",
-  "currentClass": "JUNIOR SECONDARY SCHOOL 1",
-  "firstSession": "2025-2026",
-  "lastSession": "2025-2026",
-  "sessionCount": 1,
-  "latestBalance": -50,
-  "sessions": [
+   },
    {
     "session": "2025-2026",
     "terms": [
@@ -28447,15 +27652,348 @@
   ]
  },
  {
-  "id": "oluniyi-david",
+  "id": "oluniyi-joanna-ayomide",
   "lastName": "Oluniyi",
-  "firstName": "David",
+  "firstName": "Joanna Ayomide",
   "status": "left",
-  "currentClass": "PRIMARY 1",
+  "currentClass": "SENIOR SECONDARY SCHOOL 3",
   "firstSession": "2021-2022",
-  "lastSession": "2023-2024",
-  "sessionCount": 3,
+  "lastSession": "2025-2026",
+  "sessionCount": 5,
   "latestBalance": 0,
+  "sessions": [
+   {
+    "session": "2021-2022",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "JUNIOR SECONDARY SCHOOL 2",
+      "total": 0,
+      "paid": 0,
+      "balance": 0,
+      "discount": 0,
+      "items": {},
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "JUNIOR SECONDARY SCHOOL 2",
+      "total": 43050,
+      "paid": 43050,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "PHONICS": 2500,
+       "OUTSTANDING": 40550
+      },
+      "reference": {},
+      "deposits": {
+       "FIRST DEPOSIT": 30000,
+       "SECOND DEPOSIT": 13050
+      },
+      "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "JUNIOR SECONDARY SCHOOL 2",
+      "total": 13000,
+      "paid": 13000,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "COMPUTER PRACTICAL": 2000,
+       "YEAR BOOK": 1000,
+       "PREVOCATIONAL PRACTICAL": 2500,
+       "PHONICS": 1500,
+       "EXCURSION": 1000,
+       "END OF YEAR PARTY": 5000,
+       "PAY 1": 10000,
+       "PAY 3": 3000
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     }
+    ]
+   },
+   {
+    "session": "2022-2023",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "13 JSS3",
+      "total": 31450,
+      "paid": 26950,
+      "balance": 4500,
+      "discount": 0,
+      "items": {
+       "S/N": 49,
+       "REPORT CARD": 1500,
+       "TEXTBOOKS & STATIONARIES": 13950,
+       "NOTEBOOKS": 5000,
+       "MAINTENANCE": 2000,
+       "COMPUTER": 2000,
+       "PREVOCATIONAL": 2500,
+       "XXX": 4500,
+       "PAY 1": 16000,
+       "PAY 2": 7500,
+       "PAY 3": 3450
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "13 JSS3",
+      "total": 6500,
+      "paid": 6500,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "S/N": 42,
+       "MAINTENANCE": 2000,
+       "COMPUTER PRACTICAL": 2000,
+       "PREVOCATIONAL PRACTICAL": 2500,
+       "OUTSTANDING": -1000,
+       "GRAND TOTAL FEE": 5500,
+       "50% FEE": 2750,
+       "1ST 50% PAY": 2960,
+       "2ND 50% PAY": 2540,
+       "GRAND TOTAL PAID": 5500
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "13 JSS3",
+      "total": 21000,
+      "paid": 15000,
+      "balance": 6000,
+      "discount": 0,
+      "items": {
+       "PTA/EXAM": 2500,
+       "EARLY MORNING LESSON": 3500,
+       "EXTERNAL EXAM": 10000,
+       "END OF YEAR PARTY": 5000
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     }
+    ]
+   },
+   {
+    "session": "2023-2024",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "SENIOR SECONDARY SCHOOL 1",
+      "total": 52400,
+      "paid": 24000,
+      "balance": 28400,
+      "discount": 0,
+      "items": {
+       "REPORT CARD": 1500,
+       "PRACTICALS": 5000,
+       "TEXTBOOKS": 5700,
+       "NB & STAT": 17200,
+       "UNIFORM": 11000,
+       "AFTERSCHOOL": 6000,
+       "OUTSTANDING": 6000
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "SENIOR SECONDARY SCHOOL 1",
+      "total": 34900,
+      "paid": 34900,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "REPORT CARD": 1500,
+       "PRACTICALS": 5000,
+       "OUTSTANDING": 28400
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "SENIOR SECONDARY SCHOOL 1",
+      "total": 7000,
+      "paid": 7000,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "GRADUATION/ SPORTS/PARTY": 7000
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     }
+    ]
+   },
+   {
+    "session": "2024-2025",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "SENIOR SECONDARY SCHOOL 2",
+      "total": 29600,
+      "paid": 29600,
+      "balance": 0,
+      "discount": 1,
+      "items": {
+       "TEXTBOOKS": 10800,
+       "NB & STAT": 8000,
+       "AFTERSCHOOL": 6000,
+       "HOLIDAY LESSON": 4800
+      },
+      "reference": {
+       "FULL TUITION": 37000,
+       "PTA/EXAM": 2500,
+       "REPORT CARD": 1500,
+       "PRACTICALS": 7000
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "SENIOR SECONDARY SCHOOL 2",
+      "total": 12000,
+      "paid": 12000,
+      "balance": 0,
+      "discount": 1,
+      "items": {
+       "AFTERSCHOOL": 6000,
+       "EXCURSION": 6000
+      },
+      "reference": {
+       "FULL TUITION": 37000,
+       "PTA/EXAM": 2500,
+       "REPORT CARD": 1500,
+       "PRACTICALS": 7000
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "SENIOR SECONDARY SCHOOL 2",
+      "total": 2590,
+      "paid": 0,
+      "balance": 2590,
+      "discount": 1,
+      "items": {
+       "NB & STAT": 2590
+      },
+      "reference": {
+       "FULL TUITION": 37000,
+       "PTA/EXAM": 2500,
+       "REPORT CARD": 1500,
+       "PRACTICALS": 7000
+      },
+      "deposits": {},
+      "extra": {}
+     }
+    ]
+   },
+   {
+    "session": "2025-2026",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "SENIOR SECONDARY SCHOOL 3",
+      "total": 44860,
+      "paid": 25650,
+      "balance": 19210,
+      "discount": 1,
+      "items": {
+       "PTA&EXAM": 5000,
+       "TEXTBOOKS": 12480,
+       "NB & STAT": 8790,
+       "SPORTSWEAR": 8000,
+       "AFTERSCHOOL": 8000,
+       "OUTSTANDING": 2590
+      },
+      "reference": {
+       "FULL TUITION": 40000,
+       "PTA/EXAM": 5000,
+       "REPORT CARD": 2000,
+       "PRACTICALS": 8000
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "SENIOR SECONDARY SCHOOL 3",
+      "total": 39210,
+      "paid": 35210,
+      "balance": 4000,
+      "discount": 1,
+      "items": {
+       "PTA&EXAM": 5000,
+       "AFTERSCHOOL": 8000,
+       "GRADUATION/ SPORTS/PARTY": 7000,
+       "OUTSTANDING": 19210
+      },
+      "reference": {
+       "FULL TUITION": 40000,
+       "PTA/EXAM": 5000,
+       "REPORT CARD": 2000,
+       "PRACTICALS": 8000
+      },
+      "deposits": {},
+      "extra": {
+       "LESSON FEE SEC": 8000
+      }
+     },
+     {
+      "term": "3rd Term",
+      "class": "SENIOR SECONDARY SCHOOL 3",
+      "total": 29000,
+      "paid": 29000,
+      "balance": 0,
+      "discount": 1,
+      "items": {
+       "PTA&EXAM": 5000,
+       "GRADUATION/ SPORTS/PARTY": 20000,
+       "OUTSTANDING": 4000
+      },
+      "reference": {
+       "FULL TUITION": 20000,
+       "PTA/EXAM": 5000
+      },
+      "deposits": {},
+      "extra": {
+       "PARTY FEE REMIT": 20000
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "oluniyi-leonard-david",
+  "lastName": "Oluniyi",
+  "firstName": "Leonard David",
+  "status": "active",
+  "currentClass": "PRIMARY 4",
+  "firstSession": "2021-2022",
+  "lastSession": "2026-2027",
+  "sessionCount": 6,
+  "latestBalance": 50260,
   "sessions": [
    {
     "session": "2021-2022",
@@ -28635,376 +28173,7 @@
       },
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "oluniyi-joanna",
-  "lastName": "Oluniyi",
-  "firstName": "Joanna",
-  "status": "left",
-  "currentClass": "SENIOR SECONDARY SCHOOL 1",
-  "firstSession": "2021-2022",
-  "lastSession": "2023-2024",
-  "sessionCount": 3,
-  "latestBalance": 0,
-  "sessions": [
-   {
-    "session": "2021-2022",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "JUNIOR SECONDARY SCHOOL 2",
-      "total": 0,
-      "paid": 0,
-      "balance": 0,
-      "discount": 0,
-      "items": {},
-      "reference": {},
-      "deposits": {},
-      "extra": {}
      },
-     {
-      "term": "2nd Term",
-      "class": "JUNIOR SECONDARY SCHOOL 2",
-      "total": 43050,
-      "paid": 43050,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "PHONICS": 2500,
-       "OUTSTANDING": 40550
-      },
-      "reference": {},
-      "deposits": {
-       "FIRST DEPOSIT": 30000,
-       "SECOND DEPOSIT": 13050
-      },
-      "extra": {}
-     },
-     {
-      "term": "3rd Term",
-      "class": "JUNIOR SECONDARY SCHOOL 2",
-      "total": 13000,
-      "paid": 13000,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "COMPUTER PRACTICAL": 2000,
-       "YEAR BOOK": 1000,
-       "PREVOCATIONAL PRACTICAL": 2500,
-       "PHONICS": 1500,
-       "EXCURSION": 1000,
-       "END OF YEAR PARTY": 5000,
-       "PAY 1": 10000,
-       "PAY 3": 3000
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   },
-   {
-    "session": "2022-2023",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "13 JSS3",
-      "total": 31450,
-      "paid": 26950,
-      "balance": 4500,
-      "discount": 0,
-      "items": {
-       "S/N": 49,
-       "REPORT CARD": 1500,
-       "TEXTBOOKS & STATIONARIES": 13950,
-       "NOTEBOOKS": 5000,
-       "MAINTENANCE": 2000,
-       "COMPUTER": 2000,
-       "PREVOCATIONAL": 2500,
-       "XXX": 4500,
-       "PAY 1": 16000,
-       "PAY 2": 7500,
-       "PAY 3": 3450
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "13 JSS3",
-      "total": 6500,
-      "paid": 6500,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "S/N": 42,
-       "MAINTENANCE": 2000,
-       "COMPUTER PRACTICAL": 2000,
-       "PREVOCATIONAL PRACTICAL": 2500,
-       "OUTSTANDING": -1000,
-       "GRAND TOTAL FEE": 5500,
-       "50% FEE": 2750,
-       "1ST 50% PAY": 2960,
-       "2ND 50% PAY": 2540,
-       "GRAND TOTAL PAID": 5500
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "3rd Term",
-      "class": "13 JSS3",
-      "total": 21000,
-      "paid": 15000,
-      "balance": 6000,
-      "discount": 0,
-      "items": {
-       "PTA/EXAM": 2500,
-       "EARLY MORNING LESSON": 3500,
-       "EXTERNAL EXAM": 10000,
-       "END OF YEAR PARTY": 5000
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   },
-   {
-    "session": "2023-2024",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "SENIOR SECONDARY SCHOOL 1",
-      "total": 52400,
-      "paid": 24000,
-      "balance": 28400,
-      "discount": 0,
-      "items": {
-       "REPORT CARD": 1500,
-       "PRACTICALS": 5000,
-       "TEXTBOOKS": 5700,
-       "NB & STAT": 17200,
-       "UNIFORM": 11000,
-       "AFTERSCHOOL": 6000,
-       "OUTSTANDING": 6000
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "SENIOR SECONDARY SCHOOL 1",
-      "total": 34900,
-      "paid": 34900,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "REPORT CARD": 1500,
-       "PRACTICALS": 5000,
-       "OUTSTANDING": 28400
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "oluniyi-joanna-ayomide",
-  "lastName": "Oluniyi",
-  "firstName": "Joanna Ayomide",
-  "status": "left",
-  "currentClass": "SENIOR SECONDARY SCHOOL 3",
-  "firstSession": "2023-2024",
-  "lastSession": "2025-2026",
-  "sessionCount": 3,
-  "latestBalance": 0,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
-     {
-      "term": "3rd Term",
-      "class": "SENIOR SECONDARY SCHOOL 1",
-      "total": 7000,
-      "paid": 7000,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "GRADUATION/ SPORTS/PARTY": 7000
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   },
-   {
-    "session": "2024-2025",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "SENIOR SECONDARY SCHOOL 2",
-      "total": 29600,
-      "paid": 29600,
-      "balance": 0,
-      "discount": 1,
-      "items": {
-       "TEXTBOOKS": 10800,
-       "NB & STAT": 8000,
-       "AFTERSCHOOL": 6000,
-       "HOLIDAY LESSON": 4800
-      },
-      "reference": {
-       "FULL TUITION": 37000,
-       "PTA/EXAM": 2500,
-       "REPORT CARD": 1500,
-       "PRACTICALS": 7000
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "SENIOR SECONDARY SCHOOL 2",
-      "total": 12000,
-      "paid": 12000,
-      "balance": 0,
-      "discount": 1,
-      "items": {
-       "AFTERSCHOOL": 6000,
-       "EXCURSION": 6000
-      },
-      "reference": {
-       "FULL TUITION": 37000,
-       "PTA/EXAM": 2500,
-       "REPORT CARD": 1500,
-       "PRACTICALS": 7000
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "3rd Term",
-      "class": "SENIOR SECONDARY SCHOOL 2",
-      "total": 2590,
-      "paid": 0,
-      "balance": 2590,
-      "discount": 1,
-      "items": {
-       "NB & STAT": 2590
-      },
-      "reference": {
-       "FULL TUITION": 37000,
-       "PTA/EXAM": 2500,
-       "REPORT CARD": 1500,
-       "PRACTICALS": 7000
-      },
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   },
-   {
-    "session": "2025-2026",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "SENIOR SECONDARY SCHOOL 3",
-      "total": 44860,
-      "paid": 25650,
-      "balance": 19210,
-      "discount": 1,
-      "items": {
-       "PTA&EXAM": 5000,
-       "TEXTBOOKS": 12480,
-       "NB & STAT": 8790,
-       "SPORTSWEAR": 8000,
-       "AFTERSCHOOL": 8000,
-       "OUTSTANDING": 2590
-      },
-      "reference": {
-       "FULL TUITION": 40000,
-       "PTA/EXAM": 5000,
-       "REPORT CARD": 2000,
-       "PRACTICALS": 8000
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "SENIOR SECONDARY SCHOOL 3",
-      "total": 39210,
-      "paid": 35210,
-      "balance": 4000,
-      "discount": 1,
-      "items": {
-       "PTA&EXAM": 5000,
-       "AFTERSCHOOL": 8000,
-       "GRADUATION/ SPORTS/PARTY": 7000,
-       "OUTSTANDING": 19210
-      },
-      "reference": {
-       "FULL TUITION": 40000,
-       "PTA/EXAM": 5000,
-       "REPORT CARD": 2000,
-       "PRACTICALS": 8000
-      },
-      "deposits": {},
-      "extra": {
-       "LESSON FEE SEC": 8000
-      }
-     },
-     {
-      "term": "3rd Term",
-      "class": "SENIOR SECONDARY SCHOOL 3",
-      "total": 29000,
-      "paid": 29000,
-      "balance": 0,
-      "discount": 1,
-      "items": {
-       "PTA&EXAM": 5000,
-       "GRADUATION/ SPORTS/PARTY": 20000,
-       "OUTSTANDING": 4000
-      },
-      "reference": {
-       "FULL TUITION": 20000,
-       "PTA/EXAM": 5000
-      },
-      "deposits": {},
-      "extra": {
-       "PARTY FEE REMIT": 20000
-      }
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "oluniyi-leonard",
-  "lastName": "Oluniyi",
-  "firstName": "Leonard",
-  "status": "left",
-  "currentClass": "PRIMARY 1",
-  "firstSession": "2023-2024",
-  "lastSession": "2023-2024",
-  "sessionCount": 1,
-  "latestBalance": 0,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
      {
       "term": "3rd Term",
       "class": "PRIMARY 1",
@@ -29021,20 +28190,7 @@
       "extra": {}
      }
     ]
-   }
-  ]
- },
- {
-  "id": "oluniyi-leonard-david",
-  "lastName": "Oluniyi",
-  "firstName": "Leonard David",
-  "status": "active",
-  "currentClass": "PRIMARY 4",
-  "firstSession": "2024-2025",
-  "lastSession": "2026-2027",
-  "sessionCount": 3,
-  "latestBalance": 50260,
-  "sessions": [
+   },
    {
     "session": "2024-2025",
     "terms": [
@@ -29210,15 +28366,15 @@
   ]
  },
  {
-  "id": "oluwafemi-emmanuel",
+  "id": "oluwafemi-emmanuel-obaloluwa",
   "lastName": "Oluwafemi",
-  "firstName": "Emmanuel",
-  "status": "left",
-  "currentClass": "PLAYGROUP 2",
+  "firstName": "Emmanuel Obaloluwa",
+  "status": "active",
+  "currentClass": "PRIMARY 1",
   "firstSession": "2021-2022",
-  "lastSession": "2023-2024",
-  "sessionCount": 3,
-  "latestBalance": -966,
+  "lastSession": "2026-2027",
+  "sessionCount": 6,
+  "latestBalance": 73845,
   "sessions": [
    {
     "session": "2021-2022",
@@ -29368,25 +28524,7 @@
       },
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "oluwafemi-emmanuel-obaloluwa",
-  "lastName": "Oluwafemi",
-  "firstName": "Emmanuel Obaloluwa",
-  "status": "active",
-  "currentClass": "PRIMARY 1",
-  "firstSession": "2023-2024",
-  "lastSession": "2026-2027",
-  "sessionCount": 4,
-  "latestBalance": 73845,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
+     },
      {
       "term": "2nd Term",
       "class": "PLAYGROUP 2",
@@ -29983,15 +29121,15 @@
   ]
  },
  {
-  "id": "oluwasesan-zion",
+  "id": "oluwasesan-zion-olawalarami",
   "lastName": "Oluwasesan",
-  "firstName": "Zion",
+  "firstName": "Zion Olawalarami",
   "status": "left",
-  "currentClass": "CRECHE",
+  "currentClass": "PLAYGROUP 1",
   "firstSession": "2024-2025",
-  "lastSession": "2024-2025",
-  "sessionCount": 1,
-  "latestBalance": 0,
+  "lastSession": "2025-2026",
+  "sessionCount": 2,
+  "latestBalance": 52010,
   "sessions": [
    {
     "session": "2024-2025",
@@ -30043,25 +29181,7 @@
       },
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "oluwasesan-zion-olawalarami",
-  "lastName": "Oluwasesan",
-  "firstName": "Zion Olawalarami",
-  "status": "left",
-  "currentClass": "PLAYGROUP 1",
-  "firstSession": "2024-2025",
-  "lastSession": "2025-2026",
-  "sessionCount": 2,
-  "latestBalance": 52010,
-  "sessions": [
-   {
-    "session": "2024-2025",
-    "terms": [
+     },
      {
       "term": "3rd Term",
       "class": "CRECHE",
@@ -31874,11 +30994,293 @@
   "firstName": "Alexander",
   "status": "active",
   "currentClass": "PRIMARY 3",
-  "firstSession": "2025-2026",
+  "firstSession": "2021-2022",
   "lastSession": "2026-2027",
-  "sessionCount": 2,
+  "sessionCount": 6,
   "latestBalance": 75010,
   "sessions": [
+   {
+    "session": "2021-2022",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "PLAYGROUP 1",
+      "total": 20000,
+      "paid": 0,
+      "balance": 20000,
+      "discount": 0,
+      "items": {
+       "TUITION": 18500,
+       "PTA/EXAM": 1500
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "PLAYGROUP 1",
+      "total": 24500,
+      "paid": 24500,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "TUITION": 18500,
+       "PTA/EXAM": 1500,
+       "AFTER SCHOOL CLUB": 4500
+      },
+      "reference": {},
+      "deposits": {
+       "FIRST DEPOSIT": 10000,
+       "SECOND DEPOSIT": 14500
+      },
+      "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "PLAYGROUP 1",
+      "total": 32500,
+      "paid": 32500,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "TUITION": 18500,
+       "PTA/EXAM": 1500,
+       "YEAR BOOK": 2000,
+       "AFTER SCHOOL CLUB": 4500,
+       "EXCURSION": 1000,
+       "END OF YEAR PARTY": 5000,
+       "PAY 1": 15000,
+       "PAY 2": 1000,
+       "PAY 3": 16500
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     }
+    ]
+   },
+   {
+    "session": "2022-2023",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "03 PG2",
+      "total": 46050,
+      "paid": 46050,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "S/N": 8,
+       "SCHOOL FEE": 18500,
+       "PTA/EXAM": 1500,
+       "REPORT CARD": 1000,
+       "TEXTBOOKS & STATIONARIES": 16350,
+       "NOTEBOOKS": 2700,
+       "MAINTENANCE": 1500,
+       "AFTER SCHOOL CLUB": 4500,
+       "PAY 1": 31000,
+       "PAY 2": 10050,
+       "PAY 3": 5000
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "03 PG2",
+      "total": 21500,
+      "paid": 21500,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "S/N": 2,
+       "TUITION FEE": 18500,
+       "PTA/EXAM": 1500,
+       "MAINTENANCE": 1500,
+       "OUTSTANDING": -2000,
+       "GRAND TOTAL FEE": 19500,
+       "50% FEE": 9750,
+       "1ST 50% PAY": 15000,
+       "2ND 50% PAY": 6500,
+       "GRAND TOTAL PAID": 21500,
+       "GRAND TOTAL BALANCE": -2000
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "03 PG2",
+      "total": 24500,
+      "paid": 24500,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "TUITION FEE": 20000,
+       "PTA/EXAM": 1500,
+       "END OF YEAR PARTY": 5000,
+       "OUTSTANDING": -2000
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     }
+    ]
+   },
+   {
+    "session": "2023-2024",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "NURSERY 2",
+      "total": 56630,
+      "paid": 56630,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "TUITION": 15000,
+       "PTA/EXAM": 1500,
+       "REPORT CARD": 1000,
+       "PRACTICALS": 1000,
+       "TEXTBOOKS": 16970,
+       "NB & STAT": 7160,
+       "AFTERSCHOOL": 5000,
+       "EXCURSION": 4000,
+       "HOLIDAY LESSON": 5000
+      },
+      "reference": {
+       "ACTUAL TUITION": 20000
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "NURSERY 2",
+      "total": 24500,
+      "paid": 22500,
+      "balance": 2000,
+      "discount": 0,
+      "items": {
+       "TUITION": 15000,
+       "PTA/EXAM": 1500,
+       "PRACTICALS": 1000,
+       "NB & STAT": 2000,
+       "AFTERSCHOOL": 5000
+      },
+      "reference": {
+       "ACTUAL TUITION": 20000
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "NURSERY 2",
+      "total": 37750,
+      "paid": 37750,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "TUITION": 17250,
+       "PTA/EXAM": 1500,
+       "PRACTICALS": 2000,
+       "AFTERSCHOOL": 5000,
+       "GRADUATION/ SPORTS/PARTY": 10000,
+       "OUTSTANDING": 2000
+      },
+      "reference": {
+       "ACTUAL TUITION": 23000
+      },
+      "deposits": {},
+      "extra": {}
+     }
+    ]
+   },
+   {
+    "session": "2024-2025",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "PRIMARY 1",
+      "total": 81725,
+      "paid": 69725,
+      "balance": 12000,
+      "discount": 0.25,
+      "items": {
+       "TUITION": 18750,
+       "PTA&EXAM": 1500,
+       "REPORT_CARD": 1875,
+       "PRACTICAL": 3000,
+       "TEXTBOOKS": 24400,
+       "NB & STAT": 10400,
+       "UNIFORM": 8000,
+       "SPORTSWEAR": 4000,
+       "AFTERSCHOOL": 5000,
+       "HOLIDAY LESSON": 4800
+      },
+      "reference": {
+       "FULL TUITION": 25000,
+       "PTA/EXAM": 2000,
+       "REPORT CARD": 2500,
+       "PRACTICALS": 4000
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "PRIMARY 1",
+      "total": 46250,
+      "paid": 46250,
+      "balance": 0,
+      "discount": 0.25,
+      "items": {
+       "TUITION": 18750,
+       "PTA&EXAM": 1500,
+       "PRACTICAL": 3000,
+       "AFTERSCHOOL": 5000,
+       "EXCURSION": 6000,
+       "OUTSTANDING": 12000
+      },
+      "reference": {
+       "FULL TUITION": 25000,
+       "PTA/EXAM": 2000,
+       "PRACTICALS": 4000
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "PRIMARY 1",
+      "total": 38250,
+      "paid": 38250,
+      "balance": 0,
+      "discount": 0.25,
+      "items": {
+       "TUITION": 18750,
+       "PTA&EXAM": 1500,
+       "PRACTICAL": 3000,
+       "AFTERSCHOOL": 5000,
+       "GRADUATION/ SPORTS/PARTY": 10000
+      },
+      "reference": {
+       "FULL TUITION": 25000,
+       "PTA/EXAM": 2000,
+       "PRACTICALS": 4000
+      },
+      "deposits": {},
+      "extra": {
+       "LESSON FEE PRY": 5000,
+       "PARTY FEE REMIT": 10000
+      }
+     }
+    ]
+   },
    {
     "session": "2025-2026",
     "terms": [
@@ -31998,11 +31400,153 @@
   "firstName": "Maxwell",
   "status": "active",
   "currentClass": "NURSERY 2",
-  "firstSession": "2025-2026",
+  "firstSession": "2023-2024",
   "lastSession": "2026-2027",
-  "sessionCount": 2,
+  "sessionCount": 4,
   "latestBalance": 65100,
   "sessions": [
+   {
+    "session": "2023-2024",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "PLAYGROUP 1",
+      "total": 58595,
+      "paid": 58595,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "AD-FORM": 1500,
+       "TUITION": 15000,
+       "PTA/EXAM": 1500,
+       "REPORT CARD": 1000,
+       "TEXTBOOKS": 10535,
+       "NB & STAT": 4560,
+       "UNIFORM": 10000,
+       "HOODY": 4000,
+       "SPORTSWEAR": 4000,
+       "EXCURSION": 4000,
+       "HOLIDAY LESSON": 2500
+      },
+      "reference": {
+       "ACTUAL TUITION": 20000
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "PLAYGROUP 1",
+      "total": 15500,
+      "paid": 16500,
+      "balance": -1000,
+      "discount": 0,
+      "items": {
+       "TUITION": 15000,
+       "PTA/EXAM": 1500,
+       "HOODY": -1000
+      },
+      "reference": {
+       "ACTUAL TUITION": 20000
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "PLAYGROUP 1",
+      "total": 24750,
+      "paid": 24750,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "TUITION": 17250,
+       "PTA/EXAM": 1500,
+       "GRADUATION/ SPORTS/PARTY": 7000,
+       "OUTSTANDING": -1000
+      },
+      "reference": {
+       "ACTUAL TUITION": 23000
+      },
+      "deposits": {},
+      "extra": {}
+     }
+    ]
+   },
+   {
+    "session": "2024-2025",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "PLAYGROUP 2",
+      "total": 54425,
+      "paid": 47425,
+      "balance": 7000,
+      "discount": 0.25,
+      "items": {
+       "TUITION": 17250,
+       "PTA&EXAM": 1125,
+       "REPORT_CARD": 750,
+       "TEXTBOOKS": 13200,
+       "NB & STAT": 5300,
+       "UNIFORM": 7000,
+       "AFTERSCHOOL": 5000,
+       "HOLIDAY LESSON": 4800
+      },
+      "reference": {
+       "FULL TUITION": 23000,
+       "PTA/EXAM": 1500,
+       "REPORT CARD": 1000
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "PLAYGROUP 2",
+      "total": 36375,
+      "paid": 36375,
+      "balance": 0,
+      "discount": 0.25,
+      "items": {
+       "TUITION": 17250,
+       "PTA&EXAM": 1125,
+       "AFTERSCHOOL": 5000,
+       "EXCURSION": 6000,
+       "OUTSTANDING": 7000
+      },
+      "reference": {
+       "FULL TUITION": 23000,
+       "PTA/EXAM": 1500
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "PLAYGROUP 2",
+      "total": 33375,
+      "paid": 33375,
+      "balance": 0,
+      "discount": 0.25,
+      "items": {
+       "TUITION": 17250,
+       "PTA&EXAM": 1125,
+       "AFTERSCHOOL": 5000,
+       "GRADUATION/ SPORTS/PARTY": 10000
+      },
+      "reference": {
+       "FULL TUITION": 23000,
+       "PTA/EXAM": 1500
+      },
+      "deposits": {},
+      "extra": {
+       "LESSON FEE PRY": 5000,
+       "PARTY FEE REMIT": 10000
+      }
+     }
+    ]
+   },
    {
     "session": "2025-2026",
     "terms": [
@@ -33596,15 +33140,15 @@
   ]
  },
  {
-  "id": "saheed-bisola",
+  "id": "saheed-faridat-abisola",
   "lastName": "Saheed",
-  "firstName": "Bisola",
-  "status": "left",
-  "currentClass": "JUNIOR SECONDARY SCHOOL 2",
+  "firstName": "Faridat Abisola",
+  "status": "active",
+  "currentClass": "SENIOR SECONDARY SCHOOL 2",
   "firstSession": "2022-2023",
-  "lastSession": "2023-2024",
-  "sessionCount": 2,
-  "latestBalance": 0,
+  "lastSession": "2026-2027",
+  "sessionCount": 5,
+  "latestBalance": 81770,
   "sessions": [
    {
     "session": "2022-2023",
@@ -33732,25 +33276,7 @@
       },
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "saheed-faridat-abisola",
-  "lastName": "Saheed",
-  "firstName": "Faridat Abisola",
-  "status": "active",
-  "currentClass": "SENIOR SECONDARY SCHOOL 2",
-  "firstSession": "2023-2024",
-  "lastSession": "2026-2027",
-  "sessionCount": 4,
-  "latestBalance": 81770,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
+     },
      {
       "term": "3rd Term",
       "class": "JUNIOR SECONDARY SCHOOL 2",
@@ -35291,15 +34817,15 @@
   ]
  },
  {
-  "id": "temitope-emmanuel",
+  "id": "temitope-emmanuel-oluwasemilore",
   "lastName": "Temitope",
-  "firstName": "Emmanuel",
-  "status": "left",
-  "currentClass": "JUNIOR SECONDARY SCHOOL 2",
+  "firstName": "Emmanuel Oluwasemilore",
+  "status": "active",
+  "currentClass": "SENIOR SECONDARY SCHOOL 2",
   "firstSession": "2021-2022",
-  "lastSession": "2023-2024",
-  "sessionCount": 3,
-  "latestBalance": 0,
+  "lastSession": "2026-2027",
+  "sessionCount": 6,
+  "latestBalance": 71110,
   "sessions": [
    {
     "session": "2021-2022",
@@ -35496,25 +35022,7 @@
       },
       "deposits": {},
       "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "temitope-emmanuel-oluwasemilore",
-  "lastName": "Temitope",
-  "firstName": "Emmanuel Oluwasemilore",
-  "status": "active",
-  "currentClass": "SENIOR SECONDARY SCHOOL 2",
-  "firstSession": "2023-2024",
-  "lastSession": "2026-2027",
-  "sessionCount": 4,
-  "latestBalance": 71110,
-  "sessions": [
-   {
-    "session": "2023-2024",
-    "terms": [
+     },
      {
       "term": "3rd Term",
       "class": "JUNIOR SECONDARY SCHOOL 2",
@@ -35742,14 +35250,199 @@
   "firstName": "Oluwatimileyin Godwin",
   "status": "active",
   "currentClass": "JUNIOR SECONDARY SCHOOL 3",
-  "firstSession": "2023-2024",
+  "firstSession": "2021-2022",
   "lastSession": "2026-2027",
-  "sessionCount": 4,
+  "sessionCount": 6,
   "latestBalance": 78610,
   "sessions": [
    {
+    "session": "2021-2022",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "PRIMARY 3",
+      "total": 20500,
+      "paid": 0,
+      "balance": 20500,
+      "discount": 0,
+      "items": {
+       "TUITION": 18500,
+       "PTA/EXAM": 2000
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "PRIMARY 3",
+      "total": 42150,
+      "paid": 30000,
+      "balance": 12150,
+      "discount": 0,
+      "items": {
+       "TUITION": 18500,
+       "PTA/EXAM": 2000,
+       "COMPUTER PRACTICAL": 1000,
+       "PREVOCATIONAL PRACTICAL": 1000,
+       "PHONICS": 1000,
+       "OUTSTANDING": 18650
+      },
+      "reference": {},
+      "deposits": {
+       "FIRST DEPOSIT": 20000,
+       "THIRD DEPOSIT": 10000
+      },
+      "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "PRIMARY 3",
+      "total": 44150,
+      "paid": 44150,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "TUITION": 20500,
+       "PTA/EXAM": 2000,
+       "COMPUTER PRACTICAL": 1500,
+       "PREVOCATIONAL PRACTICAL": 1000,
+       "PHONICS": 1000,
+       "EXCURSION": 1000,
+       "END OF YEAR PARTY": 5000,
+       "OUTSTANDING": 12150,
+       "PAY 1": 10000,
+       "PAY 2": 15000,
+       "PAY 3": 10000,
+       "PAY 4": 9150
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     }
+    ]
+   },
+   {
+    "session": "2022-2023",
+    "terms": [
+     {
+      "term": "1st Term",
+      "class": "09 PRY4",
+      "total": 55980,
+      "paid": 44250,
+      "balance": 11730,
+      "discount": 0,
+      "items": {
+       "S/N": 35,
+       "SCHOOL FEE": 20500,
+       "PTA/EXAM": 2000,
+       "REPORT CARD": 2500,
+       "TEXTBOOKS & STATIONARIES": 18600,
+       "NOTEBOOKS": 3880,
+       "MAINTENANCE": 1500,
+       "COMPUTER": 1500,
+       "PREVOCATIONAL": 1000,
+       "PHONICS": 1000,
+       "XXX": 3500,
+       "PAY 1": 25000,
+       "PAY 2": 9250,
+       "PAY 3": 10000
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "09 PRY4",
+      "total": 27500,
+      "paid": 27500,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "S/N": 5,
+       "TUITION FEE": 20500,
+       "PTA/EXAM": 2000,
+       "MAINTENANCE": 1500,
+       "COMPUTER PRACTICAL": 1500,
+       "PREVOCATIONAL PRACTICAL": 1000,
+       "PHONICS": 1000,
+       "OUTSTANDING": 8230,
+       "GRAND TOTAL FEE": 35730,
+       "50% FEE": 17865,
+       "1ST 50% PAY": 20000,
+       "GRAND TOTAL PAID": 20000,
+       "GRAND TOTAL BALANCE": 15730
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "3rd Term",
+      "class": "09 PRY4",
+      "total": 44730,
+      "paid": 44730,
+      "balance": 0,
+      "discount": 0,
+      "items": {
+       "TUITION FEE": 22000,
+       "PTA/EXAM": 2000,
+       "PRACTICALS": 3500,
+       "NOTEBOOKS": 1500,
+       "OUTSTANDING": 15730
+      },
+      "reference": {},
+      "deposits": {},
+      "extra": {}
+     }
+    ]
+   },
+   {
     "session": "2023-2024",
     "terms": [
+     {
+      "term": "1st Term",
+      "class": "PRIMARY 5",
+      "total": 54635,
+      "paid": 45000,
+      "balance": 9635,
+      "discount": 0,
+      "items": {
+       "TUITION": 16500,
+       "PTA/EXAM": 2000,
+       "PRACTICALS": 3500,
+       "TEXTBOOKS": 19035,
+       "NB & STAT": 8100,
+       "OUTSTANDING": 5500
+      },
+      "reference": {
+       "ACTUAL TUITION": 22000
+      },
+      "deposits": {},
+      "extra": {}
+     },
+     {
+      "term": "2nd Term",
+      "class": "PRIMARY 5",
+      "total": 37835,
+      "paid": 37055,
+      "balance": 780,
+      "discount": 0,
+      "items": {
+       "TUITION": 16500,
+       "PTA/EXAM": 2000,
+       "PRACTICALS": 3500,
+       "AFTERSCHOOL": 5000,
+       "EXTERNAL EXAMINATION": 1200,
+       "OUTSTANDING": 9635
+      },
+      "reference": {
+       "ACTUAL TUITION": 22000
+      },
+      "deposits": {},
+      "extra": {}
+     },
      {
       "term": "3rd Term",
       "class": "PRIMARY 5",
@@ -35969,209 +35662,6 @@
        "PTA/EXAM": 5000,
        "REPORT CARD": 2000,
        "PRACTICALS": 6000
-      },
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "temitope-timilehin",
-  "lastName": "Temitope",
-  "firstName": "Timilehin",
-  "status": "left",
-  "currentClass": "PRIMARY 5",
-  "firstSession": "2021-2022",
-  "lastSession": "2023-2024",
-  "sessionCount": 3,
-  "latestBalance": 780,
-  "sessions": [
-   {
-    "session": "2021-2022",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "PRIMARY 3",
-      "total": 20500,
-      "paid": 0,
-      "balance": 20500,
-      "discount": 0,
-      "items": {
-       "TUITION": 18500,
-       "PTA/EXAM": 2000
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "PRIMARY 3",
-      "total": 42150,
-      "paid": 30000,
-      "balance": 12150,
-      "discount": 0,
-      "items": {
-       "TUITION": 18500,
-       "PTA/EXAM": 2000,
-       "COMPUTER PRACTICAL": 1000,
-       "PREVOCATIONAL PRACTICAL": 1000,
-       "PHONICS": 1000,
-       "OUTSTANDING": 18650
-      },
-      "reference": {},
-      "deposits": {
-       "FIRST DEPOSIT": 20000,
-       "THIRD DEPOSIT": 10000
-      },
-      "extra": {}
-     },
-     {
-      "term": "3rd Term",
-      "class": "PRIMARY 3",
-      "total": 44150,
-      "paid": 44150,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "TUITION": 20500,
-       "PTA/EXAM": 2000,
-       "COMPUTER PRACTICAL": 1500,
-       "PREVOCATIONAL PRACTICAL": 1000,
-       "PHONICS": 1000,
-       "EXCURSION": 1000,
-       "END OF YEAR PARTY": 5000,
-       "OUTSTANDING": 12150,
-       "PAY 1": 10000,
-       "PAY 2": 15000,
-       "PAY 3": 10000,
-       "PAY 4": 9150
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   },
-   {
-    "session": "2022-2023",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "09 PRY4",
-      "total": 55980,
-      "paid": 44250,
-      "balance": 11730,
-      "discount": 0,
-      "items": {
-       "S/N": 35,
-       "SCHOOL FEE": 20500,
-       "PTA/EXAM": 2000,
-       "REPORT CARD": 2500,
-       "TEXTBOOKS & STATIONARIES": 18600,
-       "NOTEBOOKS": 3880,
-       "MAINTENANCE": 1500,
-       "COMPUTER": 1500,
-       "PREVOCATIONAL": 1000,
-       "PHONICS": 1000,
-       "XXX": 3500,
-       "PAY 1": 25000,
-       "PAY 2": 9250,
-       "PAY 3": 10000
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "09 PRY4",
-      "total": 27500,
-      "paid": 27500,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "S/N": 5,
-       "TUITION FEE": 20500,
-       "PTA/EXAM": 2000,
-       "MAINTENANCE": 1500,
-       "COMPUTER PRACTICAL": 1500,
-       "PREVOCATIONAL PRACTICAL": 1000,
-       "PHONICS": 1000,
-       "OUTSTANDING": 8230,
-       "GRAND TOTAL FEE": 35730,
-       "50% FEE": 17865,
-       "1ST 50% PAY": 20000,
-       "GRAND TOTAL PAID": 20000,
-       "GRAND TOTAL BALANCE": 15730
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "3rd Term",
-      "class": "09 PRY4",
-      "total": 44730,
-      "paid": 44730,
-      "balance": 0,
-      "discount": 0,
-      "items": {
-       "TUITION FEE": 22000,
-       "PTA/EXAM": 2000,
-       "PRACTICALS": 3500,
-       "NOTEBOOKS": 1500,
-       "OUTSTANDING": 15730
-      },
-      "reference": {},
-      "deposits": {},
-      "extra": {}
-     }
-    ]
-   },
-   {
-    "session": "2023-2024",
-    "terms": [
-     {
-      "term": "1st Term",
-      "class": "PRIMARY 5",
-      "total": 54635,
-      "paid": 45000,
-      "balance": 9635,
-      "discount": 0,
-      "items": {
-       "TUITION": 16500,
-       "PTA/EXAM": 2000,
-       "PRACTICALS": 3500,
-       "TEXTBOOKS": 19035,
-       "NB & STAT": 8100,
-       "OUTSTANDING": 5500
-      },
-      "reference": {
-       "ACTUAL TUITION": 22000
-      },
-      "deposits": {},
-      "extra": {}
-     },
-     {
-      "term": "2nd Term",
-      "class": "PRIMARY 5",
-      "total": 37835,
-      "paid": 37055,
-      "balance": 780,
-      "discount": 0,
-      "items": {
-       "TUITION": 16500,
-       "PTA/EXAM": 2000,
-       "PRACTICALS": 3500,
-       "AFTERSCHOOL": 5000,
-       "EXTERNAL EXAMINATION": 1200,
-       "OUTSTANDING": 9635
-      },
-      "reference": {
-       "ACTUAL TUITION": 22000
       },
       "deposits": {},
       "extra": {}
