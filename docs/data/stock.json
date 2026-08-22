@@ -1,0 +1,2114 @@
+{
+ "uniforms": [
+  {
+   "group": "PG BOYS",
+   "items": [
+    {
+     "item": "UNIFORM",
+     "costPrice": 8000
+    },
+    {
+     "item": "HOODY",
+     "costPrice": 8000
+    },
+    {
+     "item": "SPORTSWEAR",
+     "costPrice": 7000
+    }
+   ]
+  },
+  {
+   "group": "PG GIRLS",
+   "items": [
+    {
+     "item": "UNIFORM",
+     "costPrice": 8000
+    },
+    {
+     "item": "HOODY",
+     "costPrice": 8000
+    },
+    {
+     "item": "SPORTSWEAR",
+     "costPrice": 7000
+    }
+   ]
+  },
+  {
+   "group": "NUR BOYS",
+   "items": [
+    {
+     "item": "UNIFORM",
+     "costPrice": 8000
+    },
+    {
+     "item": "HOODY",
+     "costPrice": 8000
+    },
+    {
+     "item": "SPORTSWEAR",
+     "costPrice": 7000
+    }
+   ]
+  },
+  {
+   "group": "NUR GIRLS",
+   "items": [
+    {
+     "item": "UNIFORM",
+     "costPrice": 8000
+    },
+    {
+     "item": "HOODY",
+     "costPrice": 8000
+    },
+    {
+     "item": "SPORTSWEAR",
+     "costPrice": 7000
+    }
+   ]
+  },
+  {
+   "group": "PRY BOYS",
+   "items": [
+    {
+     "item": "UNIFORM",
+     "costPrice": 8000
+    },
+    {
+     "item": "HOODY",
+     "costPrice": 8000
+    },
+    {
+     "item": "SPORTSWEAR",
+     "costPrice": 7000
+    }
+   ]
+  },
+  {
+   "group": "PRY GIRLS",
+   "items": [
+    {
+     "item": "UNIFORM",
+     "costPrice": 8000
+    },
+    {
+     "item": "HOODY",
+     "costPrice": 8000
+    },
+    {
+     "item": "SPORTSWEAR",
+     "costPrice": 7000
+    }
+   ]
+  },
+  {
+   "group": "JSS BOYS",
+   "items": [
+    {
+     "item": "UNIFORM",
+     "costPrice": 12000
+    },
+    {
+     "item": "HOODY",
+     "costPrice": 8000
+    },
+    {
+     "item": "SPORTSWEAR",
+     "costPrice": 8000
+    }
+   ]
+  },
+  {
+   "group": "JSS GIRLS",
+   "items": [
+    {
+     "item": "UNIFORM",
+     "costPrice": 12000
+    },
+    {
+     "item": "HOODY",
+     "costPrice": 8000
+    },
+    {
+     "item": "SPORTSWEAR",
+     "costPrice": 8000
+    }
+   ]
+  },
+  {
+   "group": "SSS BOYS",
+   "items": [
+    {
+     "item": "UNIFORM",
+     "costPrice": 20000
+    },
+    {
+     "item": "HOODY",
+     "costPrice": 8000
+    },
+    {
+     "item": "SPORTSWEAR",
+     "costPrice": 8000
+    }
+   ]
+  },
+  {
+   "group": "SSS GIRLS",
+   "items": [
+    {
+     "item": "UNIFORM",
+     "costPrice": 20000
+    },
+    {
+     "item": "HOODY",
+     "costPrice": 8000
+    },
+    {
+     "item": "SPORTSWEAR",
+     "costPrice": 8000
+    }
+   ]
+  }
+ ],
+ "textbooks": [
+  {
+   "class": "02 PLAYGROUP 1",
+   "subject": "HANDWRITING, COLOURING AND SHAPES",
+   "textbook": "THE BRILLANCE SCRIBBLE AND COLOURING FOR BEGINNERS",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 18,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1900,
+   "sellPrice": 2280,
+   "costTotal": 0,
+   "sellTotal": 41040,
+   "profit": 41040
+  },
+  {
+   "class": "02 PLAYGROUP 1",
+   "subject": "ENGLISH LANGUAGE",
+   "textbook": "THE BRILLANCE STEPS TO ALPHABETS FOR BEGINNERS",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 18,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1900,
+   "sellPrice": 2280,
+   "costTotal": 0,
+   "sellTotal": 41040,
+   "profit": 41040
+  },
+  {
+   "class": "02 PLAYGROUP 1",
+   "subject": "MATHEMATICS",
+   "textbook": "THE BRILLANCE STEPS TO NUMBERS FOR BEGINNERS",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 18,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1900,
+   "sellPrice": 2280,
+   "costTotal": 0,
+   "sellTotal": 41040,
+   "profit": 41040
+  },
+  {
+   "class": "03 PLAYGROUP 2",
+   "subject": "HANDWRITING, COLOURING AND SHAPES",
+   "textbook": "THE BRILLANCE HANDWRITING, COLOURING AND SHAPES 2",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 10,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2000,
+   "sellPrice": 2400,
+   "costTotal": 0,
+   "sellTotal": 24000,
+   "profit": 24000
+  },
+  {
+   "class": "03 PLAYGROUP 2",
+   "subject": "ENGLISH LANGUAGE",
+   "textbook": "THE BRILLANCE ENGLISH FOR NURSERY SCHOOL 1",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 10,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2200,
+   "sellPrice": 2640,
+   "costTotal": 0,
+   "sellTotal": 26400,
+   "profit": 26400
+  },
+  {
+   "class": "03 PLAYGROUP 2",
+   "subject": "MATHEMATICS",
+   "textbook": "THE BRILLANCE MATHEMATICS FOR NURSERY SCHOOL 1",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 10,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2200,
+   "sellPrice": 2640,
+   "costTotal": 0,
+   "sellTotal": 26400,
+   "profit": 26400
+  },
+  {
+   "class": "03 PLAYGROUP 2",
+   "subject": "QUANTITATIVE REASONING",
+   "textbook": "NEW APPROACH TO NURSERY 1",
+   "provider": "EXCEEDING GRACE",
+   "studentQty": 10,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2000,
+   "sellPrice": 2400,
+   "costTotal": 0,
+   "sellTotal": 24000,
+   "profit": 24000
+  },
+  {
+   "class": "03 PLAYGROUP 2",
+   "subject": "VERBAL REASONING",
+   "textbook": "NEW APPROACH TO NURSERY 1",
+   "provider": "EXCEEDING GRACE",
+   "studentQty": 10,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2000,
+   "sellPrice": 2400,
+   "costTotal": 0,
+   "sellTotal": 24000,
+   "profit": 24000
+  },
+  {
+   "class": "04 NURSERY 1",
+   "subject": "HANDWRITING, COLOURING AND SHAPES",
+   "textbook": "THE BRILLANCE HANDWRITING, COLOURING AND SHAPES 3",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 20,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2000,
+   "sellPrice": 2400,
+   "costTotal": 0,
+   "sellTotal": 48000,
+   "profit": 48000
+  },
+  {
+   "class": "04 NURSERY 1",
+   "subject": "ENGLISH LANGUAGE",
+   "textbook": "THE BRILLANCE ENGLISH FOR NURSERY SCHOOL 2",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 20,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2200,
+   "sellPrice": 2640,
+   "costTotal": 0,
+   "sellTotal": 52800,
+   "profit": 52800
+  },
+  {
+   "class": "04 NURSERY 1",
+   "subject": "MATHEMATICS",
+   "textbook": "THE BRILLANCE MATHEMATICS FOR NURSERY SCHOOL 2",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 20,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2200,
+   "sellPrice": 2640,
+   "costTotal": 0,
+   "sellTotal": 52800,
+   "profit": 52800
+  },
+  {
+   "class": "04 NURSERY 1",
+   "subject": "ENGLISH LITERATURE",
+   "textbook": "TUNDE AND HIS RED BALL",
+   "provider": "EXCEEDING GRACE",
+   "studentQty": 20,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 750,
+   "sellPrice": 900,
+   "costTotal": 0,
+   "sellTotal": 18000,
+   "profit": 18000
+  },
+  {
+   "class": "04 NURSERY 1",
+   "subject": "QUANTITATIVE REASONING",
+   "textbook": "NEW APPROACH TO NURSERY 2",
+   "provider": "EXCEEDING GRACE",
+   "studentQty": 20,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2000,
+   "sellPrice": 2400,
+   "costTotal": 0,
+   "sellTotal": 48000,
+   "profit": 48000
+  },
+  {
+   "class": "04 NURSERY 1",
+   "subject": "VERBAL REASONING",
+   "textbook": "NEW APPROACH TO NURSERY 2",
+   "provider": "EXCEEDING GRACE",
+   "studentQty": 20,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2000,
+   "sellPrice": 2400,
+   "costTotal": 0,
+   "sellTotal": 48000,
+   "profit": 48000
+  },
+  {
+   "class": "05 NURSERY 2",
+   "subject": "ENGLISH GRAMMAR",
+   "textbook": "METRO GRAMMAR 1",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2900,
+   "sellPrice": 3480,
+   "costTotal": 0,
+   "sellTotal": 31320,
+   "profit": 31320
+  },
+  {
+   "class": "05 NURSERY 2",
+   "subject": "ENGLISH LANGUAGE",
+   "textbook": "MODULAR ENGLISH 1",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 5500,
+   "sellPrice": 6600,
+   "costTotal": 0,
+   "sellTotal": 59400,
+   "profit": 59400
+  },
+  {
+   "class": "05 NURSERY 2",
+   "subject": "MATHEMATICS",
+   "textbook": "UNDERSTANDING MATHEMATICS 1",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 3400,
+   "sellPrice": 4080,
+   "costTotal": 0,
+   "sellTotal": 36720,
+   "profit": 36720
+  },
+  {
+   "class": "05 NURSERY 2",
+   "subject": "MENTAL MATHEMATICS",
+   "textbook": "FOUR SUMS",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1620,
+   "sellPrice": 1950,
+   "costTotal": 0,
+   "sellTotal": 17550,
+   "profit": 17550
+  },
+  {
+   "class": "05 NURSERY 2",
+   "subject": "QUANTITATIVE REASONING",
+   "textbook": "NEW APPROACH TO QUANTITATIVE REASONING 1",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1700,
+   "sellPrice": 2040,
+   "costTotal": 0,
+   "sellTotal": 18360,
+   "profit": 18360
+  },
+  {
+   "class": "05 NURSERY 2",
+   "subject": "VERBAL REASONING",
+   "textbook": "NEW APPROACH TO VERBAL REASONING 1",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1700,
+   "sellPrice": 2040,
+   "costTotal": 0,
+   "sellTotal": 18360,
+   "profit": 18360
+  },
+  {
+   "class": "05 NURSERY 2",
+   "subject": "YORUBA LANGUAGE",
+   "textbook": "KIKO YORUBA NI AKAYE 1",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2500,
+   "sellPrice": 3000,
+   "costTotal": 0,
+   "sellTotal": 27000,
+   "profit": 27000
+  },
+  {
+   "class": "05 NURSERY 2",
+   "subject": "ENGLISH LITERATURE 1",
+   "textbook": "MY BODY",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 520,
+   "sellPrice": 630,
+   "costTotal": 0,
+   "sellTotal": 5670,
+   "profit": 5670
+  },
+  {
+   "class": "05 NURSERY 2",
+   "subject": "ENGLISH LITERATURE 2",
+   "textbook": "TOM THE GOOD BOY",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 520,
+   "sellPrice": 630,
+   "costTotal": 0,
+   "sellTotal": 5670,
+   "profit": 5670
+  },
+  {
+   "class": "06 PRIMARY 1",
+   "subject": "ENGLISH GRAMMAR",
+   "textbook": "METRO GRAMMAR 2",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2900,
+   "sellPrice": 3480,
+   "costTotal": 0,
+   "sellTotal": 31320,
+   "profit": 31320
+  },
+  {
+   "class": "06 PRIMARY 1",
+   "subject": "ENGLISH LANGUAGE",
+   "textbook": "MODULAR ENGLISH 2",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 5500,
+   "sellPrice": 6600,
+   "costTotal": 0,
+   "sellTotal": 59400,
+   "profit": 59400
+  },
+  {
+   "class": "06 PRIMARY 1",
+   "subject": "MATHEMATICS",
+   "textbook": "UNDERSTANDING MATHEMATICS 2",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 3400,
+   "sellPrice": 4080,
+   "costTotal": 0,
+   "sellTotal": 36720,
+   "profit": 36720
+  },
+  {
+   "class": "06 PRIMARY 1",
+   "subject": "MENTAL MATHEMATICS",
+   "textbook": "FIVE SUMS",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1620,
+   "sellPrice": 1950,
+   "costTotal": 0,
+   "sellTotal": 17550,
+   "profit": 17550
+  },
+  {
+   "class": "06 PRIMARY 1",
+   "subject": "QUANTITATIVE REASONING",
+   "textbook": "NEW APPROACH TO QUANTITATIVE REASONING 2",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1700,
+   "sellPrice": 2040,
+   "costTotal": 0,
+   "sellTotal": 18360,
+   "profit": 18360
+  },
+  {
+   "class": "06 PRIMARY 1",
+   "subject": "VERBAL REASONING",
+   "textbook": "NEW APPROACH TO VERBAL REASONING 2",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1700,
+   "sellPrice": 2040,
+   "costTotal": 0,
+   "sellTotal": 18360,
+   "profit": 18360
+  },
+  {
+   "class": "06 PRIMARY 1",
+   "subject": "YORUBA LANGUAGE",
+   "textbook": "KIKO YORUBA NI AKAYE 2",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2500,
+   "sellPrice": 3000,
+   "costTotal": 0,
+   "sellTotal": 27000,
+   "profit": 27000
+  },
+  {
+   "class": "06 PRIMARY 1",
+   "subject": "ENGLISH LITERATURE 1",
+   "textbook": "MY DOG",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 580,
+   "sellPrice": 700,
+   "costTotal": 0,
+   "sellTotal": 6300,
+   "profit": 6300
+  },
+  {
+   "class": "06 PRIMARY 1",
+   "subject": "ENGLISH LITERATURE 2",
+   "textbook": "CLAIRE'S PET",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 630,
+   "sellPrice": 760,
+   "costTotal": 0,
+   "sellTotal": 6840,
+   "profit": 6840
+  },
+  {
+   "class": "07 PRIMARY 2",
+   "subject": "ENGLISH GRAMMAR",
+   "textbook": "METRO GRAMMAR 3",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 8,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2900,
+   "sellPrice": 3480,
+   "costTotal": 0,
+   "sellTotal": 27840,
+   "profit": 27840
+  },
+  {
+   "class": "07 PRIMARY 2",
+   "subject": "ENGLISH LANGUAGE",
+   "textbook": "MODULAR ENGLISH 3",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 8,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 5500,
+   "sellPrice": 6600,
+   "costTotal": 0,
+   "sellTotal": 52800,
+   "profit": 52800
+  },
+  {
+   "class": "07 PRIMARY 2",
+   "subject": "MATHEMATICS",
+   "textbook": "UNDERSTANDING MATHEMATICS 3",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 8,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 3400,
+   "sellPrice": 4080,
+   "costTotal": 0,
+   "sellTotal": 32640,
+   "profit": 32640
+  },
+  {
+   "class": "07 PRIMARY 2",
+   "subject": "MENTAL MATHEMATICS",
+   "textbook": "SIX SUMS",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 8,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1620,
+   "sellPrice": 1950,
+   "costTotal": 0,
+   "sellTotal": 15600,
+   "profit": 15600
+  },
+  {
+   "class": "07 PRIMARY 2",
+   "subject": "QUANTITATIVE REASONING",
+   "textbook": "NEW APPROACH TO QUANTITATIVE REASONING 3",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 8,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1700,
+   "sellPrice": 2040,
+   "costTotal": 0,
+   "sellTotal": 16320,
+   "profit": 16320
+  },
+  {
+   "class": "07 PRIMARY 2",
+   "subject": "VERBAL REASONING",
+   "textbook": "NEW APPROACH TO VERBAL REASONING 3",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 8,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1700,
+   "sellPrice": 2040,
+   "costTotal": 0,
+   "sellTotal": 16320,
+   "profit": 16320
+  },
+  {
+   "class": "07 PRIMARY 2",
+   "subject": "YORUBA LANGUAGE",
+   "textbook": "KIKO YORUBA NI AKAYE 3",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 8,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2500,
+   "sellPrice": 3000,
+   "costTotal": 0,
+   "sellTotal": 24000,
+   "profit": 24000
+  },
+  {
+   "class": "07 PRIMARY 2",
+   "subject": "ENGLISH LITERATURE 1",
+   "textbook": "FAITH THE QUEEN OF MATHEMATICS",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 8,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 680,
+   "sellPrice": 820,
+   "costTotal": 0,
+   "sellTotal": 6560,
+   "profit": 6560
+  },
+  {
+   "class": "07 PRIMARY 2",
+   "subject": "ENGLISH LITERATURE 2",
+   "textbook": "THE REWARD OF HONESTY",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 8,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 680,
+   "sellPrice": 820,
+   "costTotal": 0,
+   "sellTotal": 6560,
+   "profit": 6560
+  },
+  {
+   "class": "08 PRIMARY 3",
+   "subject": "ENGLISH GRAMMAR",
+   "textbook": "METRO GRAMMAR 4",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 3350,
+   "sellPrice": 4020,
+   "costTotal": 0,
+   "sellTotal": 36180,
+   "profit": 36180
+  },
+  {
+   "class": "08 PRIMARY 3",
+   "subject": "ENGLISH LANGUAGE",
+   "textbook": "MODULAR ENGLISH 4",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 5800,
+   "sellPrice": 6960,
+   "costTotal": 0,
+   "sellTotal": 62640,
+   "profit": 62640
+  },
+  {
+   "class": "08 PRIMARY 3",
+   "subject": "MATHEMATICS",
+   "textbook": "UNDERSTANDING MATHEMATICS 4",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 3600,
+   "sellPrice": 4320,
+   "costTotal": 0,
+   "sellTotal": 38880,
+   "profit": 38880
+  },
+  {
+   "class": "08 PRIMARY 3",
+   "subject": "MENTAL MATHEMATICS",
+   "textbook": "SEVEN SUMS",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1620,
+   "sellPrice": 1950,
+   "costTotal": 0,
+   "sellTotal": 17550,
+   "profit": 17550
+  },
+  {
+   "class": "08 PRIMARY 3",
+   "subject": "QUANTITATIVE REASONING",
+   "textbook": "NEW APPROACH TO QUANTITATIVE REASONING 4",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1700,
+   "sellPrice": 2040,
+   "costTotal": 0,
+   "sellTotal": 18360,
+   "profit": 18360
+  },
+  {
+   "class": "08 PRIMARY 3",
+   "subject": "VERBAL REASONING",
+   "textbook": "NEW APPROACH TO VERBAL REASONING 4",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1700,
+   "sellPrice": 2040,
+   "costTotal": 0,
+   "sellTotal": 18360,
+   "profit": 18360
+  },
+  {
+   "class": "08 PRIMARY 3",
+   "subject": "YORUBA LANGUAGE",
+   "textbook": "KIKO YORUBA NI AKAYE 4",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2500,
+   "sellPrice": 3000,
+   "costTotal": 0,
+   "sellTotal": 27000,
+   "profit": 27000
+  },
+  {
+   "class": "08 PRIMARY 3",
+   "subject": "ENGLISH LITERATURE 1",
+   "textbook": "A VISIT TO BARRISTER FALANA'S LAW FIRM",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 680,
+   "sellPrice": 820,
+   "costTotal": 0,
+   "sellTotal": 7380,
+   "profit": 7380
+  },
+  {
+   "class": "08 PRIMARY 3",
+   "subject": "ENGLISH LITERATURE 2",
+   "textbook": "MY PIGGY BANK",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 9,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 700,
+   "sellPrice": 840,
+   "costTotal": 0,
+   "sellTotal": 7560,
+   "profit": 7560
+  },
+  {
+   "class": "09 PRIMARY 4",
+   "subject": "ENGLISH GRAMMAR",
+   "textbook": "METRO GRAMMAR 5",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 3350,
+   "sellPrice": 4020,
+   "costTotal": 0,
+   "sellTotal": 16080,
+   "profit": 16080
+  },
+  {
+   "class": "09 PRIMARY 4",
+   "subject": "ENGLISH LANGUAGE",
+   "textbook": "MODULAR ENGLISH 5",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 5800,
+   "sellPrice": 6960,
+   "costTotal": 0,
+   "sellTotal": 27840,
+   "profit": 27840
+  },
+  {
+   "class": "09 PRIMARY 4",
+   "subject": "MATHEMATICS",
+   "textbook": "UNDERSTANDING MATHEMATICS 5",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 3600,
+   "sellPrice": 4320,
+   "costTotal": 0,
+   "sellTotal": 17280,
+   "profit": 17280
+  },
+  {
+   "class": "09 PRIMARY 4",
+   "subject": "MENTAL MATHEMATICS",
+   "textbook": "EIGHT SUMS",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1620,
+   "sellPrice": 1950,
+   "costTotal": 0,
+   "sellTotal": 7800,
+   "profit": 7800
+  },
+  {
+   "class": "09 PRIMARY 4",
+   "subject": "QUANTITATIVE REASONING",
+   "textbook": "NEW APPROACH TO QUANTITATIVE REASONING 5",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1700,
+   "sellPrice": 2040,
+   "costTotal": 0,
+   "sellTotal": 8160,
+   "profit": 8160
+  },
+  {
+   "class": "09 PRIMARY 4",
+   "subject": "VERBAL REASONING",
+   "textbook": "NEW APPROACH TO VERBAL REASONING 5",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1700,
+   "sellPrice": 2040,
+   "costTotal": 0,
+   "sellTotal": 8160,
+   "profit": 8160
+  },
+  {
+   "class": "09 PRIMARY 4",
+   "subject": "YORUBA LANGUAGE",
+   "textbook": "KIKO YORUBA NI AKAYE 5",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2500,
+   "sellPrice": 3000,
+   "costTotal": 0,
+   "sellTotal": 12000,
+   "profit": 12000
+  },
+  {
+   "class": "09 PRIMARY 4",
+   "subject": "ENGLISH LITERATURE 1",
+   "textbook": "END OF TUNNEL",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 700,
+   "sellPrice": 840,
+   "costTotal": 0,
+   "sellTotal": 3360,
+   "profit": 3360
+  },
+  {
+   "class": "09 PRIMARY 4",
+   "subject": "ENGLISH LITERATURE 2",
+   "textbook": "ALABA THE PUBLIC SPEAKER",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 700,
+   "sellPrice": 840,
+   "costTotal": 0,
+   "sellTotal": 3360,
+   "profit": 3360
+  },
+  {
+   "class": "10 PRIMARY 5",
+   "subject": "ENGLISH GRAMMAR",
+   "textbook": "METRO GRAMMAR 6",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 4500,
+   "sellPrice": 5400,
+   "costTotal": 0,
+   "sellTotal": 21600,
+   "profit": 21600
+  },
+  {
+   "class": "10 PRIMARY 5",
+   "subject": "ENGLISH LANGUAGE",
+   "textbook": "MODULAR ENGLISH 6",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 5800,
+   "sellPrice": 6960,
+   "costTotal": 0,
+   "sellTotal": 27840,
+   "profit": 27840
+  },
+  {
+   "class": "10 PRIMARY 5",
+   "subject": "MATHEMATICS",
+   "textbook": "UNDERSTANDING MATHEMATICS 6",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 3600,
+   "sellPrice": 4320,
+   "costTotal": 0,
+   "sellTotal": 17280,
+   "profit": 17280
+  },
+  {
+   "class": "10 PRIMARY 5",
+   "subject": "MENTAL MATHEMATICS",
+   "textbook": "NINE SUMS",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1620,
+   "sellPrice": 1950,
+   "costTotal": 0,
+   "sellTotal": 7800,
+   "profit": 7800
+  },
+  {
+   "class": "10 PRIMARY 5",
+   "subject": "QUANTITATIVE REASONING",
+   "textbook": "NEW APPROACH TO QUANTITATIVE REASONING 6",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1900,
+   "sellPrice": 2280,
+   "costTotal": 0,
+   "sellTotal": 9120,
+   "profit": 9120
+  },
+  {
+   "class": "10 PRIMARY 5",
+   "subject": "VERBAL REASONING",
+   "textbook": "NEW APPROACH TO VERBAL REASONING 6",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 1900,
+   "sellPrice": 2280,
+   "costTotal": 0,
+   "sellTotal": 9120,
+   "profit": 9120
+  },
+  {
+   "class": "10 PRIMARY 5",
+   "subject": "YORUBA LANGUAGE",
+   "textbook": "KIKO YORUBA NI AKAYE 6",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 2500,
+   "sellPrice": 3000,
+   "costTotal": 0,
+   "sellTotal": 12000,
+   "profit": 12000
+  },
+  {
+   "class": "10 PRIMARY 5",
+   "subject": "ENGLISH LITERATURE 1",
+   "textbook": "BOLANLE THE BULLY",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 720,
+   "sellPrice": 870,
+   "costTotal": 0,
+   "sellTotal": 3480,
+   "profit": 3480
+  },
+  {
+   "class": "10 PRIMARY 5",
+   "subject": "ENGLISH LITERATURE 2",
+   "textbook": "THE INTERHOUSE SPORTS COMPETITION",
+   "provider": "THE EDUCATIONIST",
+   "studentQty": 4,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 735,
+   "sellPrice": 890,
+   "costTotal": 0,
+   "sellTotal": 3560,
+   "profit": 3560
+  },
+  {
+   "class": "11 JSS1",
+   "subject": "ENGLISH GRAMMAR",
+   "textbook": "ACTIVE GRAMMAR 1",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 0,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 3600,
+   "sellPrice": 4320,
+   "costTotal": 0,
+   "sellTotal": 0,
+   "profit": 0
+  },
+  {
+   "class": "11 JSS1",
+   "subject": "ENGLISH LANGUAGE",
+   "textbook": "INTENSIVE ENGLISH 1",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 0,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 4300,
+   "sellPrice": 5160,
+   "costTotal": 0,
+   "sellTotal": 0,
+   "profit": 0
+  },
+  {
+   "class": "11 JSS1",
+   "subject": "MATHEMATICS",
+   "textbook": "NEW GENERAL MATHS 1",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 0,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 5000,
+   "sellPrice": 6000,
+   "costTotal": 0,
+   "sellTotal": 0,
+   "profit": 0
+  },
+  {
+   "class": "12 JSS2",
+   "subject": "ENGLISH GRAMMAR",
+   "textbook": "ACTIVE GRAMMAR 2",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 5,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 3600,
+   "sellPrice": 4320,
+   "costTotal": 0,
+   "sellTotal": 21600,
+   "profit": 21600
+  },
+  {
+   "class": "12 JSS2",
+   "subject": "ENGLISH LANGUAGE",
+   "textbook": "INTENSIVE ENGLISH 2",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 5,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 4300,
+   "sellPrice": 5160,
+   "costTotal": 0,
+   "sellTotal": 25800,
+   "profit": 25800
+  },
+  {
+   "class": "12 JSS2",
+   "subject": "MATHEMATICS",
+   "textbook": "NEW GENERAL MATHS 2",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 5,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 5000,
+   "sellPrice": 6000,
+   "costTotal": 0,
+   "sellTotal": 30000,
+   "profit": 30000
+  },
+  {
+   "class": "13 JSS3",
+   "subject": "BECE SOLUTIONS",
+   "textbook": "BECE SOLUTIONS",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 11,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 0,
+   "sellPrice": 0,
+   "costTotal": 0,
+   "sellTotal": 0,
+   "profit": 0
+  },
+  {
+   "class": "13 JSS3",
+   "subject": "ENGLISH GRAMMAR",
+   "textbook": "ACTIVE GRAMMAR 3",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 11,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 4410,
+   "sellPrice": 5300,
+   "costTotal": 0,
+   "sellTotal": 58300,
+   "profit": 58300
+  },
+  {
+   "class": "13 JSS3",
+   "subject": "ENGLISH LANGUAGE",
+   "textbook": "INTENSIVE ENGLISH 3",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 11,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 4300,
+   "sellPrice": 5160,
+   "costTotal": 0,
+   "sellTotal": 56760,
+   "profit": 56760
+  },
+  {
+   "class": "13 JSS3",
+   "subject": "MATHEMATICS",
+   "textbook": "NEW GENERAL MATHS 3",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 11,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 5000,
+   "sellPrice": 6000,
+   "costTotal": 0,
+   "sellTotal": 66000,
+   "profit": 66000
+  },
+  {
+   "class": "14 SSS1",
+   "subject": "ENGLISH LANGUAGE",
+   "textbook": "INTENSIVE ENGLISH 1",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 1,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 4750,
+   "sellPrice": 5700,
+   "costTotal": 0,
+   "sellTotal": 5700,
+   "profit": 5700
+  },
+  {
+   "class": "14 SSS1",
+   "subject": "MATHEMATICS",
+   "textbook": "NEW GENERAL MATHS 1",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 1,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 5150,
+   "sellPrice": 6180,
+   "costTotal": 0,
+   "sellTotal": 6180,
+   "profit": 6180
+  },
+  {
+   "class": "15 SSS2",
+   "subject": "ENGLISH LANGUAGE",
+   "textbook": "INTENSIVE ENGLISH 2",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 7,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 4750,
+   "sellPrice": 5700,
+   "costTotal": 0,
+   "sellTotal": 39900,
+   "profit": 39900
+  },
+  {
+   "class": "15 SSS2",
+   "subject": "MATHEMATICS",
+   "textbook": "NEW GENERAL MATHS 2",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 7,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 5150,
+   "sellPrice": 6180,
+   "costTotal": 0,
+   "sellTotal": 43260,
+   "profit": 43260
+  },
+  {
+   "class": "16 SSS3",
+   "subject": "ENGLISH LANGUAGE",
+   "textbook": "INTENSIVE ENGLISH 3",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 1,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 4750,
+   "sellPrice": 5700,
+   "costTotal": 0,
+   "sellTotal": 5700,
+   "profit": 5700
+  },
+  {
+   "class": "16 SSS3",
+   "subject": "MATHEMATICS",
+   "textbook": "NEW GENERAL MATHS 3",
+   "provider": "WONSEBOLATAN",
+   "studentQty": 1,
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPrice": 5150,
+   "sellPrice": 6180,
+   "costTotal": 0,
+   "sellTotal": 6180,
+   "profit": 6180
+  }
+ ],
+ "notebooksAndStationery": [
+  {
+   "item": "1/2 INCH",
+   "costPrice": 370,
+   "sellingPrice": 450,
+   "qtyByClass": {
+    "PG1": 5,
+    "PG2": 5,
+    "NUR1": 5
+   }
+  },
+  {
+   "item": "1 INCH",
+   "costPrice": 370,
+   "sellingPrice": 450,
+   "qtyByClass": {
+    "CRECHE": 5,
+    "PG1": 5,
+    "PG2": 10,
+    "NUR1": 5
+   }
+  },
+  {
+   "item": "2A",
+   "costPrice": 370,
+   "sellingPrice": 450,
+   "qtyByClass": {
+    "NUR1": 5
+   }
+  },
+  {
+   "item": "40 LEAVES",
+   "costPrice": 370,
+   "sellingPrice": 450,
+   "qtyByClass": {
+    "NUR2": 15,
+    "PRY1": 10,
+    "PRY2": 10,
+    "PRY3": 10,
+    "PRY4": 10,
+    "PRY5": 10
+   }
+  },
+  {
+   "item": "60 LEAVES",
+   "costPrice": 470,
+   "sellingPrice": 570,
+   "qtyByClass": {
+    "NUR2": 5,
+    "PRY1": 10,
+    "PRY2": 10,
+    "PRY3": 10,
+    "PRY4": 10,
+    "PRY5": 10
+   }
+  },
+  {
+   "item": "80 LEAVES",
+   "costPrice": 0,
+   "sellingPrice": 0,
+   "qtyByClass": {}
+  },
+  {
+   "item": "HIGHER EDUCATION",
+   "costPrice": 950,
+   "sellingPrice": 1140,
+   "qtyByClass": {
+    "JSS1": 10,
+    "JSS2": 10,
+    "JSS3": 10,
+    "SSS1": 10,
+    "SSS2": 10,
+    "SSS3": 10
+   }
+  },
+  {
+   "item": "LONG RULER",
+   "costPrice": 270,
+   "sellingPrice": 330,
+   "qtyByClass": {
+    "NUR2": 1,
+    "PRY1": 1,
+    "PRY2": 1,
+    "PRY3": 1,
+    "PRY4": 1,
+    "PRY5": 1,
+    "JSS1": 1,
+    "JSS2": 1,
+    "JSS3": 1,
+    "SSS1": 1,
+    "SSS2": 1,
+    "SSS3": 1
+   }
+  },
+  {
+   "item": "PENCIL",
+   "costPrice": 35.83,
+   "sellingPrice": 50,
+   "qtyByClass": {
+    "CRECHE": 12,
+    "PG1": 12,
+    "PG2": 12,
+    "NUR1": 12,
+    "NUR2": 12,
+    "PRY1": 12,
+    "PRY2": 12
+   }
+  },
+  {
+   "item": "ERASERS",
+   "costPrice": 80,
+   "sellingPrice": 100,
+   "qtyByClass": {
+    "CRECHE": 2,
+    "PG1": 2,
+    "PG2": 2,
+    "NUR1": 2,
+    "NUR2": 2,
+    "PRY1": 2,
+    "PRY2": 2,
+    "PRY3": 1,
+    "PRY4": 1,
+    "PRY5": 1
+   }
+  },
+  {
+   "item": "MATHEMATICAL SET",
+   "costPrice": 1250,
+   "sellingPrice": 1500,
+   "qtyByClass": {
+    "PRY3": 1,
+    "PRY4": 1,
+    "PRY5": 1,
+    "JSS1": 1,
+    "JSS2": 1,
+    "JSS3": 1,
+    "SSS1": 1,
+    "SSS2": 1,
+    "SSS3": 1
+   }
+  },
+  {
+   "item": "BLUE PEN",
+   "costPrice": 88,
+   "sellingPrice": 110,
+   "qtyByClass": {
+    "PRY3": 10,
+    "PRY4": 10,
+    "PRY5": 10,
+    "JSS1": 10,
+    "JSS2": 10,
+    "JSS3": 10,
+    "SSS1": 10,
+    "SSS2": 10,
+    "SSS3": 10
+   }
+  },
+  {
+   "item": "DRAWING BOARD",
+   "costPrice": 1550,
+   "sellingPrice": 1860,
+   "qtyByClass": {
+    "JSS1": 1
+   }
+  }
+ ],
+ "stock": [
+  {
+   "item": "1/2 INCH",
+   "availableQty": 0,
+   "neededQty": 200,
+   "costPerItem": 330,
+   "totalCost": 66000,
+   "amountPaid": 0,
+   "balance": 66000
+  },
+  {
+   "item": "1 INCH",
+   "availableQty": 0,
+   "neededQty": 320,
+   "costPerItem": 330,
+   "totalCost": 105600,
+   "amountPaid": 0,
+   "balance": 105600
+  },
+  {
+   "item": "2A",
+   "availableQty": 0,
+   "neededQty": 50,
+   "costPerItem": 330,
+   "totalCost": 16500,
+   "amountPaid": 0,
+   "balance": 16500
+  },
+  {
+   "item": "40 LEAVES",
+   "availableQty": 0,
+   "neededQty": 420,
+   "costPerItem": 330,
+   "totalCost": 138600,
+   "amountPaid": 0,
+   "balance": 138600
+  },
+  {
+   "item": "60 LEAVES",
+   "availableQty": 0,
+   "neededQty": 350,
+   "costPerItem": 400,
+   "totalCost": 140000,
+   "amountPaid": 0,
+   "balance": 140000
+  },
+  {
+   "item": "HIGHER EDUCATION",
+   "availableQty": 90,
+   "neededQty": 260,
+   "costPerItem": 1030,
+   "totalCost": 267800,
+   "amountPaid": 0,
+   "balance": 267800
+  },
+  {
+   "item": "LONG RULER (flexible)",
+   "availableQty": 0,
+   "neededQty": 70,
+   "costPerItem": 310,
+   "totalCost": 21700,
+   "amountPaid": 0,
+   "balance": 21700
+  },
+  {
+   "item": "PENCIL",
+   "availableQty": 0,
+   "neededQty": 850,
+   "costPerItem": 54,
+   "totalCost": 45900,
+   "amountPaid": 0,
+   "balance": 45900
+  },
+  {
+   "item": "ERASERS",
+   "availableQty": 0,
+   "neededQty": 160,
+   "costPerItem": 102,
+   "totalCost": 16320,
+   "amountPaid": 0,
+   "balance": 16320
+  },
+  {
+   "item": "MATHEMATICAL SET",
+   "availableQty": 7,
+   "neededQty": 40,
+   "costPerItem": 920,
+   "totalCost": 36800,
+   "amountPaid": 0,
+   "balance": 36800
+  },
+  {
+   "item": "BLUE PEN",
+   "availableQty": 0,
+   "neededQty": 500,
+   "costPerItem": 80,
+   "totalCost": 40000,
+   "amountPaid": 0,
+   "balance": 40000
+  },
+  {
+   "item": "RED PEN",
+   "availableQty": 0,
+   "neededQty": 100,
+   "costPerItem": 80,
+   "totalCost": 8000,
+   "amountPaid": 0,
+   "balance": 8000
+  },
+  {
+   "item": "MARKER",
+   "availableQty": 24,
+   "neededQty": 24,
+   "costPerItem": 250,
+   "totalCost": 6000,
+   "amountPaid": 6000,
+   "balance": 0
+  },
+  {
+   "item": "MARKER INK",
+   "availableQty": 2,
+   "neededQty": 2,
+   "costPerItem": 4500,
+   "totalCost": 9000,
+   "amountPaid": 9000,
+   "balance": 0
+  },
+  {
+   "item": "BIG WHITE BOARD",
+   "availableQty": 0,
+   "neededQty": 3,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "DIARY",
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "REGISTER",
+   "availableQty": 8,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "BROADSHEET",
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "BATTERY",
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "MOPPING STICK",
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "MOPPING BUCKET",
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "BROOMS",
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "IZAL",
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "HARPIC",
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "AIR FRESHNER",
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "BULBS",
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "DRAWING BOARD",
+   "availableQty": 0,
+   "neededQty": 5,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "CARDBOARD",
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "HYPO",
+   "availableQty": 0,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "ACTIVE STEP POETERY 3",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "AUDACITY OF DREAM",
+   "availableQty": 1,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "BECE SOLUTIONS",
+   "availableQty": 1,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "CONSUMING CANKERWORM",
+   "availableQty": 3,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "DANGEROUS INFLUENCE",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "EVIL COMMUNICATION",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "EYES OF VERDICT",
+   "availableQty": 3,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "HIDDEN SPARKLE",
+   "availableQty": 3,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "IN PIECES IN PEACE",
+   "availableQty": 3,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "LIVING IN EKO",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "LOUD MOUTH",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "MAN OF HONOUR",
+   "availableQty": 1,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "MOSUN'S HABIT",
+   "availableQty": 3,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "PERFECT TIME",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "PRIDE GOES BEFORE A FALL",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "REWARD OF LAZINESS",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "THE BURNING KINGDOM",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "THE VENGEFUL WEDDING MAID",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "THE WAY OUT",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "ZAINAB THE GOLDEN DAUGHTER",
+   "availableQty": 1,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "AGBOKANLE ENIYAN",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "AJIMEFUN ATI AWON EWI MIRAN",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "ALAKE OLOMITUTU",
+   "availableQty": 1,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "ANJOORIN",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "ASIRI ASEYORI",
+   "availableQty": 3,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "AWA LOKAN",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "BIBIIRE",
+   "availableQty": 3,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "BOBAGUNWA",
+   "availableQty": 3,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "BOJU BA YEJU",
+   "availableQty": 1,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "EKO ELEKO",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "ENI ITAN",
+   "availableQty": 1,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "EWI AKOMOLASA OMOLUABI 1",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "EWI AKOMOLASA OMOLUABI 2",
+   "availableQty": 4,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "GBANGBA DEKUN",
+   "availableQty": 1,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "IGBEYIN OMO YAHOO",
+   "availableQty": 2,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "OKELE GBIGBE",
+   "availableQty": 3,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  },
+  {
+   "item": "OKU AYE",
+   "availableQty": 4,
+   "neededQty": 0,
+   "costPerItem": 0,
+   "totalCost": 0,
+   "amountPaid": 0,
+   "balance": 0
+  }
+ ]
+}

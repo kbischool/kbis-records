@@ -3,7 +3,8 @@
 KBIS Schools — Student Records data builder
 =============================================
 Reads the school's FEE workbooks (one per session) + INVOICE.xlsx (the master
-fee structure) and produces normalised JSON files that the website reads.
+fee structure) + STOCKS.xlsx (uniforms/textbooks/stationery/stock) and
+produces normalised JSON files that the website reads.
 
 USAGE
 -----
@@ -27,6 +28,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import pandas as pd
+import openpyxl
 
 ROOT = Path(__file__).parent
 SOURCE = ROOT / "source"
@@ -340,6 +342,212 @@ def build_students():
     return out_students, all_sessions_order, latest_session
 
 
+def build_stock():
+    """Uniforms / Textbooks / Notebooks & Stationery / Stock, from STOCKS.xlsx.
+
+    All four sheets are read and everything on them is published as-is --
+    cost price, selling price, totals, profit, quantities, amounts paid and
+    balances.
+    """
+    path = SOURCE / "STOCKS.xlsx"
+    if not path.exists():
+        print(" ! STOCKS.xlsx not found, skipping stock data")
+        return {"uniforms": [], "textbooks": [], "notebooksAndStationery": [], "stock": []}
+
+    # UNIFORMS: matrix sheet -- rows are class/gender groups, columns are
+    # item types (UNIFORM / HOODY / SPORTSWEAR), each cell a cost price.
+    df = pd.read_excel(path, sheet_name="UNIFORMS", header=1)
+    df = df.rename(columns={df.columns[0]: "GROUP"})
+    df = df.dropna(subset=["GROUP"])
+    item_cols = [c for c in df.columns if c != "GROUP"]
+    uniforms = []
+    for _, row in df.iterrows():
+        group = clean_col(row["GROUP"])
+        if not group:
+            continue
+        items = []
+        for c in item_cols:
+            cost = to_number(row.get(c))
+            if cost:
+                items.append({"item": clean_col(c), "costPrice": cost})
+        if items:
+            uniforms.append({"group": group, "items": items})
+
+    # TEXTBOOKS: one row per book -- every column on the sheet.
+    df = pd.read_excel(path, sheet_name="TEXTBOOKS")
+    df = df.dropna(subset=["TEXTBOOK"], how="all")
+    textbooks = []
+    for _, row in df.iterrows():
+        title = clean_col(row.get("TEXTBOOK"))
+        if not title:
+            continue
+        textbooks.append({
+            "class": clean_col(row.get("CLASS")),
+            "subject": clean_col(row.get("SUBJECTS")),
+            "textbook": title,
+            "provider": clean_col(row.get("PROVIDER")),
+            "studentQty": to_number(row.get("STUDENT QTY")),
+            "availableQty": to_number(row.get("AVAILABLE QTY")),
+            "neededQty": to_number(row.get("NEEDED QTY")),
+            "costPrice": to_number(row.get("COST PRICE")),
+            "sellPrice": to_number(row.get("SELL PRICE")),
+            "costTotal": to_number(row.get("COST TOTAL")),
+            "sellTotal": to_number(row.get("SELL TOTAL")),
+            "profit": to_number(row.get("PROFIT")),
+        })
+
+    # NB & STAT: one row per stationery item -- cost/selling price plus the
+    # per-class quantity columns.
+    df = pd.read_excel(path, sheet_name="NB & STAT")
+    df = df.dropna(subset=["ITEM"], how="all")
+    class_qty_cols = [c for c in df.columns if c not in ("ITEM", "COST PRICE", "SELLING PRICE")]
+    nb_stat = []
+    for _, row in df.iterrows():
+        item = clean_col(row.get("ITEM"))
+        if not item:
+            continue
+        by_class = {}
+        for c in class_qty_cols:
+            qty = to_number(row.get(c))
+            if qty:
+                by_class[clean_col(c)] = qty
+        nb_stat.append({
+            "item": item,
+            "costPrice": to_number(row.get("COST PRICE")),
+            "sellingPrice": to_number(row.get("SELLING PRICE")),
+            "qtyByClass": by_class,
+        })
+
+    # STOCK: available/needed qty, cost per item, totals, amount paid, balance.
+    df = pd.read_excel(path, sheet_name="STOCK")
+    df = df.dropna(subset=["ITEMS"], how="all")
+    stock_rows = []
+    for _, row in df.iterrows():
+        item = clean_col(row.get("ITEMS"))
+        if not item:
+            continue
+        stock_rows.append({
+            "item": item,
+            "availableQty": to_number(row.get("AVAILABLE QTY")),
+            "neededQty": to_number(row.get("NEEDED QTY")),
+            "costPerItem": to_number(row.get("COST PER ITEM")),
+            "totalCost": to_number(row.get("TOTAL COST")),
+            "amountPaid": to_number(row.get("AMOUNT PAID")),
+            "balance": to_number(row.get("BALANCE")),
+        })
+
+    return {
+        "uniforms": uniforms,
+        "textbooks": textbooks,
+        "notebooksAndStationery": nb_stat,
+        "stock": stock_rows,
+    }
+
+
+MONTH_NAMES = {
+    "JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE",
+    "JULY", "AUGUST", "SEPTEMBER", "OCTOBER", "NOVEMBER", "DECEMBER",
+}
+
+
+def build_salary():
+    """Every staff salary sheet in SALARY.xlsx -- every field, every month, every year.
+
+    Sheet names are matched two ways:
+      "YYYY STAFF SALARY"                 -> year YYYY, category "all"
+      "YYYY PRIMARY/SECONDARY/SUPPORT STAFF" -> year YYYY, that category
+
+    Each sheet is laid out as a header row, then repeating [MONTH marker row,
+    one row per staff member, a totals row] blocks. Column sets differ by
+    year/sheet (older sheets have DEDUCTION/OUTSTANDING/DATE DUE, newer ones
+    have PAID/BALANCE) -- everything present on a given sheet is included;
+    fields a sheet doesn't have are simply absent from its records.
+    """
+    path = SOURCE / "SALARY.xlsx"
+    if not path.exists():
+        print(" ! SALARY.xlsx not found, skipping salary data")
+        return {}
+
+    wb = openpyxl.load_workbook(path, data_only=True)
+    years = {}
+
+    for sheet_name in wb.sheetnames:
+        m = re.match(r"(\d{4})\s+(PRIMARY|SECONDARY|SUPPORT)\s+STAFF", sheet_name, re.I)
+        if m:
+            year, category = m.group(1), m.group(2).lower()
+        else:
+            m2 = re.match(r"(\d{4})\s+STAFF\s+SALARY", sheet_name, re.I)
+            if not m2:
+                continue
+            year, category = m2.group(1), "all"
+
+        ws = wb[sheet_name]
+        rows = list(ws.iter_rows(values_only=True))
+        if not rows:
+            continue
+        header = [clean_col(c) if c is not None else None for c in rows[0]]
+        has_split_name = "FIRSTNAME" in header and "LASTNAME" in header
+
+        def col(row, label):
+            return row[header.index(label)] if label in header else None
+
+        records = []
+        current_month = None
+        for row in rows[1:]:
+            first = row[0]
+            if isinstance(first, str) and first.strip().upper() in MONTH_NAMES:
+                current_month = first.strip().title()
+                continue
+
+            if has_split_name:
+                name = f"{clean_col(row[0])} {clean_col(row[1])}".strip()
+            else:
+                name = clean_col(col(row, "NAME"))
+            if not name:
+                continue  # totals row or blank row
+
+            def num(label):
+                v = col(row, label)
+                return to_number(v) if v is not None else None
+
+            def txt(label):
+                v = col(row, label)
+                if v is None:
+                    return None
+                if hasattr(v, "isoformat"):
+                    return v.isoformat()
+                return clean_col(v) or None
+
+            acct = col(row, "ACCOUNT NUMBER")
+            if isinstance(acct, float) and acct == int(acct):
+                acct = str(int(acct))
+            elif acct is not None:
+                acct = clean_col(acct) or None
+
+            records.append({
+                "month": current_month,
+                "name": name,
+                "bank": clean_col(col(row, "BANK")) or None,
+                "accountNumber": acct,
+                "contract": clean_col(col(row, "CONTRACT")) or None if "CONTRACT" in header else None,
+                "basicSalary": num("BASIC SALARY"),
+                "taxDeduction": num("1% TAX DEDUCTION"),
+                "monthlyDeduction": num("10% MONTHLY DEDUCTION") if "10% MONTHLY DEDUCTION" in header else (num("10% DEDUCTION") if "10% DEDUCTION" in header else None),
+                "deduction": num("DEDUCTION") if "DEDUCTION" in header else None,
+                "outstanding": num("OUTSTANDING SALARY") if "OUTSTANDING SALARY" in header else (num("OUTSTANDING") if "OUTSTANDING" in header else None),
+                "extraBonus": num("EXTRA BONUS"),
+                "amountPayable": num("AMOUNT PAYABLE"),
+                "paid": num("PAID") if "PAID" in header else None,
+                "balance": num("BALANCE") if "BALANCE" in header else None,
+                "dateDue": txt("DATE DUE") if "DATE DUE" in header else None,
+            })
+
+        bucket = years.setdefault(year, {"categories": {}})
+        bucket["categories"][category] = records
+
+    return years
+
+
 def build_invoice():
     path = SOURCE / "INVOICE.xlsx"
     if not path.exists():
@@ -372,6 +580,8 @@ def main():
     print("Building KBIS Schools data set…")
     students, sessions, latest_session = build_students()
     invoice = build_invoice()
+    stock = build_stock()
+    salary = build_salary()
 
     active = [s for s in students if s["status"] == "active"]
     left = [s for s in students if s["status"] == "left"]
@@ -398,10 +608,18 @@ def main():
     (OUT / "students.json").write_text(json.dumps(students, indent=1, ensure_ascii=False))
     (OUT / "invoice.json").write_text(json.dumps(invoice, indent=1, ensure_ascii=False))
     (OUT / "meta.json").write_text(json.dumps(meta, indent=1, ensure_ascii=False))
+    (OUT / "stock.json").write_text(json.dumps(stock, indent=1, ensure_ascii=False))
+    (OUT / "salary.json").write_text(json.dumps(salary, indent=1, ensure_ascii=False))
 
     print(f"  students: {len(students)}  (active: {len(active)}, left: {len(left)})")
     print(f"  sessions: {sessions}")
-    print(f"  wrote -> {OUT}/students.json, invoice.json, meta.json")
+    print(f"  stock: {len(stock['uniforms'])} uniform groups, {len(stock['textbooks'])} textbooks, "
+          f"{len(stock['notebooksAndStationery'])} notebook/stationery items, "
+          f"{len(stock['stock'])} stock rows")
+    salary_years = sorted(salary.keys())
+    salary_rows = sum(len(cat_rows) for y in salary.values() for cat_rows in y["categories"].values())
+    print(f"  salary: {salary_years} ({salary_rows} monthly staff records)")
+    print(f"  wrote -> {OUT}/students.json, invoice.json, meta.json, stock.json, salary.json")
     print("Done. Commit the docs/data/*.json files and push to publish the update.")
 
 

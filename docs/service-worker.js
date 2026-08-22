@@ -1,7 +1,7 @@
 /* KBIS Schools — service worker
    Cache-first app shell, stale-while-revalidate data, offline fallback.
    Bump CACHE_VERSION whenever you change any file in APP_SHELL. */
-const CACHE_VERSION = 'kbis-v2';
+const CACHE_VERSION = 'kbis-v4';
 const SHELL_CACHE = `${CACHE_VERSION}-shell`;
 const DATA_CACHE = `${CACHE_VERSION}-data`;
 
@@ -21,7 +21,7 @@ const APP_SHELL = [
   './icons/favicon-32.png',
   './icons/favicon-16.png',
 ];
-const DATA_FILES = ['./data/students.json', './data/invoice.json', './data/meta.json'];
+const DATA_FILES = ['./data/students.json', './data/invoice.json', './data/meta.json', './data/stock.json', './data/salary.json'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil((async () => {

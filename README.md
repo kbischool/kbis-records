@@ -14,13 +14,15 @@ or PC is back online and a new version of the data has been published.
 
 ```
 kbis-records/
-├── source/                  ← put your FEE / INVOICE workbooks here
+├── source/                  ← put your FEE / INVOICE / STOCKS / SALARY workbooks here
 │   ├── 2022-2023 FEE.xlsx
 │   ├── 2023-2024 FEE.xlsx
 │   ├── 2024-2025 FEE.xlsx
 │   ├── 2025 - 2026 FEE.xlsx
 │   ├── 2026 - 2027 FEE.xlsx
-│   └── INVOICE.xlsx
+│   ├── INVOICE.xlsx
+│   ├── STOCKS.xlsx           ← uniforms / textbooks / notebooks & stationery / stock
+│   └── SALARY.xlsx           ← staff payroll, 2022–2026
 ├── build_data.py            ← run this after editing any workbook above
 ├── requirements.txt
 └── docs/                    ← this is what you deploy to GitHub Pages
@@ -32,8 +34,31 @@ kbis-records/
     ├── js/app.js
     ├── img/logo.png
     ├── icons/                ← app icons (generated from your crest)
-    └── data/                 ← students.json / invoice.json / meta.json
+    └── data/                 ← students.json / invoice.json / meta.json / stock.json / salary.json
 ```
+
+**Stock page:** the app's Stock tab shows every sheet of `STOCKS.xlsx` —
+uniforms, textbooks, notebooks & stationery, and the stock-order sheet
+(available/needed qty, amounts paid, balances) — with every column on
+each sheet, including selling price and profit. Missing `STOCKS.xlsx`?
+The build just skips it and the Stock tab shows an empty state —
+everything else still builds normally.
+
+**Salary page:** the app's Salary tab shows every sheet of `SALARY.xlsx`
+(2022–2026, split into Primary/Secondary/Support from 2025 onward) —
+every staff member, every month, with every column present on that
+sheet: bank, **account number**, basic salary, deductions, bonus, amount
+payable, and (from 2025) paid/balance. Missing `SALARY.xlsx`? The build
+skips it and the Salary tab shows an empty state.
+
+> **Before you publish staff bank account numbers:** this repo is
+> **public**, and the app's passphrase gate is a deterrent, not real
+> security (see section 5) — `docs/data/salary.json`, including account
+> numbers, is reachable by anyone with the URL, gate or not, and stays in
+> git history even if you remove it later. If that's not an acceptable
+> trade-off, either make the repo private (breaks GitHub Pages on the
+> free plan — see section 2) or ask to have account numbers dropped or
+> masked from the build before you push.
 
 Everything the website reads lives in `docs/data/*.json`. `build_data.py`
 is the only thing that writes those files — it reads your Excel workbooks
